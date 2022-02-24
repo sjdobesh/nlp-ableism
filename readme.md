@@ -15,7 +15,7 @@ Based on: [Unpacking the Interdependent Systems of Discrimination: Ableist Bias 
 - Students will measure ableist biases in BERT context embeddings.
 - Students will measure how intersectionality of disability, race, and gender effect the biases in embeddings.
 - Students will fine tune the model to help address these biases and learn the limitations of techniques like counterfactual data substitution (CDS).
-- Students will consider the impact on intersectional groups and how to currate datasets to reduce possible harm.
+- Students will consider the impact on intersectional groups and how to currate and augment datasets to reduce possible harm.
 
 ### Activities
 
@@ -40,11 +40,79 @@ Based on: [Unpacking the Interdependent Systems of Discrimination: Ableist Bias 
 #### Measurment techniques
 ##### Cosine Method
 ##### Masked Language Modeling Method
+```python
 
-#### Interactive
+```
+## Assignment
+### Interactive Portion
+#### Dependencies
+- [Python 3+](https://www.python.org/downloads/)
+- [Pytorch](https://pytorch.org/)
+- [SKLearn](https://scikit-learn.org/stable/)
+```
+pip install torch sklearn`
+```
 
-##### BERT MLM
-In a python terminal, do the following...
+In a Python terminal, do the following...
+
+#### Make an Embedding
+[Embeddings](https://medium.com/analytics-vidhya/contextual-word-embeddings-part1-20d84787c65).
+
+Get the required imports. These include the model and tokenizer architecture.
+```python
+>>> from transformer import BertModel, BertTokenizer
+```
+
+Initialize the tokenizer and model and set them to evaluation mode. 
+This saves us a little time by not calculating back propogation paths.
+```python
+tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+model = BertModel.from_pretrained(
+    'bert-base-uncased',
+    output_hidden_states=True
+)
+model.eval()
+```
+
+To use these we need to...
+1. Tag the sentence with a start and seperator token.
+  - `[CLS]` and `[SEP]`
+  - One `[CLS]` at the beginning of the input.
+  - We always need at least one `[SEP]` after the first sentence, but not after the following ones.
+```python
+>>> sentence = 'Embed this sentence!'
+>>> tagged_sentence = '[CLS] ' + tagged_sentence + ' [SEP]'
+```
+2. Use the tokenizer on the tagged sentence to create a token vector.
+```python
+>>> tokenized = tokenizer.tokenize(tagged_sentence)
+```
+3. Create an indexed set of these tokens.
+```python
+>>> indexed_tokens = tokenizer.convert_tokens_to_ids(tokenized)
+```
+4. Create segment IDs.
+```python
+>>> = tokenizer.convert_tokens_to_ids(tokenized)
+```
+5. Convert indexed tokens and segment IDs into tensors.
+6. Use `with torch.no_grad():` to turn off gradient calculations.
+7. Feed tokens and segments into the model to get a prediction.
+8. Extract the hidden states.
+9. The mean of the hidden_states token vectors is our sentence embedding.
+
+#### Cosine Difference
+We will use the [cosine_similarity](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html) function in the sklearn library.
+```python
+from sklearn.metrics.pairwise import cosine_similarity
+def cosine(a: torch.Tensor, b: torch.Tensor) -> list:
+    '''cosine similarity of two tensors'''
+    return cosine_similarity(
+        a.reshape(1, -1),
+        b.reshape(1, -1)
+    ).tolist()
+```
+#### BERT MLM
 
 ```python
 # import a bert pipeline with the fill mask task

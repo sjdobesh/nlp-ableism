@@ -35,7 +35,7 @@ def embed(sentence: str) -> torch.Tensor:
 
 
 def cosine(a: torch.Tensor, b: torch.Tensor) -> list:
-    '''cosine similarity of two tensor'''
+    '''cosine similarity of two tensors'''
     return cosine_similarity(
         a.reshape(1, -1),
         b.reshape(1, -1)
