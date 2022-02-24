@@ -116,8 +116,30 @@ For single sentences, segments are easy, all ones!
 >>> sentence_embedding = torch.mean(token_vectors, dim=0)
 ```
 
+
+We can do all of these things in an interactive Python session, but it may be helpful for you to create a script, perhaps called `embedding.py`.
+This way you can write this is a whole function and just import it into the live environment with `from embedding import *`
+
+```python
+def embed(sentence: str) -> torch.Tensor:
+    '''embed a single sentence and return the hidden states of the model'''
+    tagged = '[CLS] ' + sentence + ' [SEP]'
+    tokenized = tokenizer.tokenize(tagged)
+    indexed_tokens = tokenizer.convert_tokens_to_ids(tokenized)
+    segment_ids = [1] * len(tokenized)
+    tokens = torch.tensor([indexed_tokens])
+    segments = torch.tensor([segment_ids])
+    with torch.no_grad():
+        outputs = model(tokens, segments)
+        hidden_states = outputs[2]
+    token_vectors = hidden_states[-2][0]
+    sentence_embedding = torch.mean(token_vectors, dim=0)
+    return sentence_embedding
+```
+
 #### Cosine Difference
 We will use the [cosine_similarity](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html) function in the sklearn library.
+You should also define this in your `embedding.py` file.
 ```python
 from sklearn.metrics.pairwise import cosine_similarity
 def cosine(a: torch.Tensor, b: torch.Tensor) -> list:
@@ -126,6 +148,12 @@ def cosine(a: torch.Tensor, b: torch.Tensor) -> list:
         a.reshape(1, -1),
         b.reshape(1, -1)
     ).tolist()
+```
+Now we can take the embeddings of two sentences and compare their distance.
+```python
+def compare_sentences(a: str, b: str) -> float:
+    '''streamline comparing two sentences embeddings.'''
+    return cosine(embed(a), embed(b))[0][0]
 ```
 #### BERT MLM
 
