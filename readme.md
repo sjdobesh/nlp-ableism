@@ -194,6 +194,13 @@ We will now load the dataset used to evaluate biases into a dataframe and make s
 
 ### Fine tuning
 #### Process overview
+1. Import sentence data
+2. Tokenize the data
+3. Create mask array
+4. Create a PyTorch dataset and dataloader class
+5. for epoch in range(epochs): train!
+6. save a checkpoint
+7. load checkpoint and measure BEC-Pro again
 #### Data preparation
 #### Training
 #### Evaluation
