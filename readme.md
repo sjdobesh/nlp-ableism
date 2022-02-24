@@ -92,14 +92,29 @@ To use these we need to...
 >>> indexed_tokens = tokenizer.convert_tokens_to_ids(tokenized)
 ```
 4. Create segment IDs.
+For single sentences, segments are easy, all ones!
 ```python
->>> = tokenizer.convert_tokens_to_ids(tokenized)
+>>> segment_ids = [1] * len(tokenized)
 ```
 5. Convert indexed tokens and segment IDs into tensors.
-6. Use `with torch.no_grad():` to turn off gradient calculations.
-7. Feed tokens and segments into the model to get a prediction.
-8. Extract the hidden states.
-9. The mean of the hidden_states token vectors is our sentence embedding.
+```python
+>>> tokens = torch.tensor([indexed_tokens])
+>>> segments = torch.tensor([segment_ids])
+```
+6. Feed tokens and segments into the model to get a prediction.
+```python
+>>> with torch.no_grad():
+>>>     outputs = model(tokens, segments)
+>>>     hidden_states = outputs[2]
+```
+7. Extract the hidden states.
+```python
+>>> token_vectors = hidden_states[-2][0]
+```
+8. The mean of the hidden_states token vectors is our sentence embedding.
+```python
+>>> sentence_embedding = torch.mean(token_vectors, dim=0)
+```
 
 #### Cosine Difference
 We will use the [cosine_similarity](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html) function in the sklearn library.
