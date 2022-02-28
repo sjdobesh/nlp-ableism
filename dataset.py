@@ -137,6 +137,16 @@ def get_sentiment(data: list) -> list:
     return pred
 
 
+def generate_data() -> list:
+    '''
+    generate mask data set and save it.
+    also returns the masks
+    '''
+    data = load_synthetic_dataset()
+    masks = mask(data)
+    save_dataset(masks, 'masks')
+    return masks
+
 def main() -> None:
     '''u know, main?'''
     # do nothing for rn
