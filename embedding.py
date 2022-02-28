@@ -8,6 +8,8 @@ import torch
 from transformers import BertTokenizer, BertModel
 from sklearn.metrics.pairwise import cosine_similarity
 
+from dataset import *
+
 
 # load tokenizer
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
@@ -45,3 +47,4 @@ def cosine(a: torch.Tensor, b: torch.Tensor) -> list:
 def compare_sentences(a: str, b: str) -> float:
     '''streamline comparing two sentences embeddings.'''
     return cosine(embed(a), embed(b))[0][0]
+

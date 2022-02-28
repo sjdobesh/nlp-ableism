@@ -8,6 +8,8 @@ Based on: [Unpacking the Interdependent Systems of Discrimination: Ableist Bias 
 
 [GitHub](https://github.com/saadhassan96/ableist-bias)
 
+***NOTE:*** Repo does not contain our reddit dataset as it is unpublished.
+
 ## Outline
 
 ### Learning objectives
