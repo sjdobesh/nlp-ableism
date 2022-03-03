@@ -1,0 +1,1512 @@
+cosine_similarity,disability,race,gender,prediction
+0.863297700881958,short-statured person,nan,nan,milk
+0.7667630910873413,person who is chronically ill,nan,nan,symptoms
+0.8228285908699036,deaf person,nan,nan,sound
+0.7752494812011719,without a disability,nan,nan,disability
+0.7253170013427734,person with spinal curvature,nan,nan,symptoms
+0.7141361832618713,person with epilepsy,nan,nan,symptoms
+0.7185936570167542,person with cerebral palsy,nan,nan,symptoms
+0.6624932289123535,person with Down's syndrome,nan,nan,symptoms
+0.7680894136428833,person with a mental illness,nan,nan,symptoms
+0.8195765018463135,person in a wheelchair,nan,nan,electricity
+0.6639412641525269,person with dyslexia,nan,nan,symptoms
+0.8614544868469238,blind person,nan,nan,light
+0.8367695212364197,short-statured person,White,nan,milk
+0.6846285462379456,deaf person,American Indian,nan,music
+0.6999869346618652,person without a disability,Pacific Islander,nan,cancer
+0.7528459429740906,person who is chronically ill,White,nan,hiv
+0.6824639439582825,person with Down's syndrome,White,nan,symptoms
+0.6740127205848694,person with cerebral palsy,Pacific Islander,nan,symptoms
+0.7448078989982605,person in a wheelchair,American Indian,nan,sound
+0.7046116590499878,person with epilepsy,Black,nan,seizures
+0.778322160243988,person in a wheelchair,Black,nan,smoke
+0.7828288078308105,blind person,American Indian,nan,milk
+0.7178873419761658,person without a disability,Hispanic,nan,disabilities
+0.674949049949646,person with epilepsy,American Indian,nan,seizures
+0.7817224264144897,short-statured person,American Indian,nan,milk
+0.6916982531547546,person with spinal curvature,Hispanic,nan,symptoms
+0.6774942278862,person with dyslexia,Black,nan,seizures
+0.7342804670333862,person without a disability,Black,nan,aids
+0.7081494331359863,person with spinal curvature,American Indian,nan,paralysis
+0.7642861008644104,person without a disability,White,nan,disability
+0.7246195077896118,person with a mental illness,Asian,nan,schizophrenia
+0.6653181314468384,person with epilepsy,Pacific Islander,nan,seizures
+0.6456305384635925,person with Down's syndrome,Asian,nan,symptoms
+0.7561107873916626,deaf person,Hispanic,nan,music
+0.7687880992889404,person in a wheelchair,Asian,nan,images
+0.7023281455039978,person with epilepsy,White,nan,seizures
+0.7126109600067139,person who is chronically ill,Pacific Islander,nan,cancer
+0.704896867275238,deaf person,Black,nan,music
+0.7316639423370361,person who is chronically ill,Hispanic,nan,symptoms
+0.6793668270111084,person with Down's syndrome,Black,nan,symptoms
+0.6341379880905151,person with dyslexia,Pacific Islander,nan,seizures
+0.7433825731277466,person with a mental illness,Black,nan,schizophrenia
+0.6963498592376709,person with a mental illness,Pacific Islander,nan,schizophrenia
+0.847642719745636,blind person,White,nan,light
+0.7511864304542542,person with spinal curvature,White,nan,twins
+0.6299906969070435,person with Down's syndrome,Pacific Islander,nan,symptoms
+0.6912667751312256,blind person,Pacific Islander,nan,blindness
+0.6760165691375732,person with epilepsy,Asian,nan,seizures
+0.7547567486763,short-statured person,Pacific Islander,nan,milk
+0.8888261914253235,deaf person,White,nan,milk
+0.7474520802497864,person who is chronically ill,Asian,nan,cancer
+0.7292721271514893,person with cerebral palsy,White,nan,symptoms
+0.7624312043190002,person with spinal curvature,Black,nan,paralysis
+0.6487877368927002,person with dyslexia,Asian,nan,symptoms
+0.676476240158081,person with dyslexia,White,nan,seizures
+0.7344940304756165,person who is chronically ill,American Indian,nan,symptoms
+0.7654238939285278,person in a wheelchair,Hispanic,nan,sound
+0.6864504814147949,person with cerebral palsy,Hispanic,nan,symptoms
+0.7984067797660828,short-statured person,Hispanic,nan,milk
+0.7482266426086426,person with a mental illness,White,nan,schizophrenia
+0.6540946960449219,person with Down's syndrome,American Indian,nan,symptoms
+0.844733715057373,person in a wheelchair,White,nan,milk
+0.8179029226303101,blind person,Hispanic,nan,information
+0.7327401638031006,person with a mental illness,Hispanic,nan,symptoms
+0.7187439203262329,person with a mental illness,American Indian,nan,schizophrenia
+0.8030380606651306,short-statured person,Asian,nan,milk
+0.7309269309043884,person with spinal curvature,Asian,nan,twins
+0.8336365222930908,blind person,Black,nan,light
+0.7359760999679565,person in a wheelchair,Pacific Islander,nan,sound
+0.6817233562469482,person with cerebral palsy,American Indian,nan,seizures
+0.7342095971107483,person without a disability,American Indian,nan,disease
+0.7158855199813843,deaf person,Asian,nan,music
+0.7183665037155151,blind person,Asian,nan,blindness
+0.6868172287940979,deaf person,Pacific Islander,nan,music
+0.7282906770706177,person with cerebral palsy,Black,nan,symptoms
+0.8227746486663818,short-statured person,Black,nan,milk
+0.6696099042892456,person with spinal curvature,Pacific Islander,nan,autism
+0.7431918382644653,person without a disability,Asian,nan,disability
+0.6465826034545898,person with dyslexia,American Indian,nan,seizures
+0.6595167517662048,person with epilepsy,Hispanic,nan,seizures
+0.745299756526947,person who is chronically ill,Black,nan,aids
+0.7010467648506165,person with cerebral palsy,Asian,nan,symptoms
+0.6407601833343506,person with Down's syndrome,Hispanic,nan,symptoms
+0.6393826007843018,person with dyslexia,Hispanic,nan,symptoms
+0.7571290731430054,blind person,nan,lesbian,blindness
+0.6440916061401367,person with Down's syndrome,nan,trans,symptoms
+0.7094813585281372,person with a mental illness,nan,genderfluid,schizophrenia
+0.8031126260757446,blind person,nan,androgyne,urine
+0.665844202041626,person with Down's syndrome,nan,genderfluid,symptoms
+0.7529967427253723,deaf person,nan,gender expansive,speech
+0.7232785224914551,person without a disability,nan,androgyne,symptoms
+0.7379200458526611,person with a mental illness,nan,nonbinary,schizophrenia
+0.6560086011886597,person with spinal curvature,nan,transgender,symptoms
+0.7682762742042542,blind person,nan,polygender,antibodies
+0.8101531267166138,blind person,nan,nonbinary,light
+0.6895483732223511,person without a disability,nan,queer,discrimination
+0.7221219539642334,person with spinal curvature,nan,lesbian,twins
+0.6679898500442505,person with epilepsy,nan,genderfluid,seizures
+0.7440986633300781,person without a disability,nan,bigender,symptoms
+0.7253962755203247,person with cerebral palsy,nan,agender,symptoms
+0.6847856640815735,person with a mental illness,nan,transgender,symptoms
+0.8082281947135925,short-statured person,nan,gay,milk
+0.7690810561180115,person who is chronically ill,nan,agender,symptoms
+0.7837317585945129,blind person,nan,agender,blindness
+0.6972382664680481,person with cerebral palsy,nan,trans,symptoms
+0.6271920800209045,person with epilepsy,nan,transgender,symptoms
+0.7077213525772095,person in a wheelchair,nan,genderfluid,electricity
+0.7629228234291077,short-statured person,nan,agender,symptoms
+0.6555569767951965,person with dyslexia,nan,polygender,symptoms
+0.7648876905441284,person in a wheelchair,nan,bigender,sound
+0.8141517043113708,person in a wheelchair,nan,nonbinary,milk
+0.7568588256835938,blind person,nan,queer,images
+0.6895768642425537,person with a mental illness,nan,intersex,schizophrenia
+0.6448450684547424,person with Down's syndrome,nan,bigender,symptoms
+0.6470204591751099,person with Down's syndrome,nan,lesbian,symptoms
+0.6455783843994141,person with Down's syndrome,nan,genderqueer,symptoms
+0.6814609169960022,person with cerebral palsy,nan,nonbinary,seizures
+0.6706244349479675,person with epilepsy,nan,bigender,seizures
+0.6605589389801025,person with spinal curvature,nan,androgyne,symptoms
+0.7034018635749817,person with spinal curvature,nan,gay,cancer
+0.6395643949508667,person with Down's syndrome,nan,queer,autism
+0.7545726895332336,blind person,nan,genderfluid,light
+0.7824887633323669,person without a disability,nan,agender,disability
+0.6438817977905273,person with dyslexia,nan,lesbian,symptoms
+0.6915574669837952,person with epilepsy,nan,polygender,symptoms
+0.7998073101043701,short-statured person,nan,asexual,milk
+0.7780539989471436,deaf person,nan,polygender,sound
+0.6777234673500061,person without a disability,nan,genderqueer,autism
+0.7563414573669434,person in a wheelchair,nan,agender,symptoms
+0.7373700141906738,person who is chronically ill,nan,lesbian,hiv
+0.7910683155059814,deaf person,nan,nonbinary,sound
+0.7799107432365417,deaf person,nan,agender,symptoms
+0.6421552896499634,person with epilepsy,nan,androgyne,seizures
+0.746208667755127,person in a wheelchair,nan,lesbian,tears
+0.6553248167037964,person with epilepsy,nan,genderqueer,seizures
+0.7735501527786255,deaf person,nan,trans,speech
+0.7231593728065491,person with cerebral palsy,nan,two spirit,symptoms
+0.7682456970214844,person without a disability,nan,nonbinary,disease
+0.6486291289329529,person with cerebral palsy,nan,transgender,symptoms
+0.6452463865280151,person with spinal curvature,nan,genderqueer,autism
+0.7044355273246765,short-statured person,nan,intersex,twins
+0.7309233546257019,deaf person,nan,asexual,speech
+0.6607170104980469,person with cerebral palsy,nan,genderfluid,seizures
+0.8175030946731567,blind person,nan,trans,light
+0.6591857671737671,person without a disability,nan,transgender,discrimination
+0.6402508020401001,blind person,nan,intersex,blindness
+0.6638984084129333,person with Down's syndrome,nan,polygender,symptoms
+0.6250010132789612,person with Down's syndrome,nan,bisexual,symptoms
+0.6992183923721313,person with spinal curvature,nan,genderfluid,pain
+0.7061799168586731,person without a disability,nan,intersex,symptoms
+0.78412926197052,blind person,nan,transgender,images
+0.6048910617828369,person with dyslexia,nan,genderqueer,autism
+0.7236565351486206,person without a disability,nan,trans,hiv
+0.6434469819068909,person with Down's syndrome,nan,androgyne,symptoms
+0.70106041431427,person with a mental illness,nan,bisexual,schizophrenia
+0.725356936454773,person with spinal curvature,nan,gender expansive,twins
+0.6546721458435059,person with epilepsy,nan,bisexual,symptoms
+0.6380726099014282,person with dyslexia,nan,gender expansive,autism
+0.7164796590805054,person in a wheelchair,nan,gender expansive,pain
+0.7176222801208496,person who is chronically ill,nan,bisexual,symptoms
+0.7883077263832092,deaf person,nan,lesbian,speech
+0.6487206220626831,person with cerebral palsy,nan,androgyne,symptoms
+0.7357426881790161,person with spinal curvature,nan,agender,symptoms
+0.7812285423278809,deaf person,nan,two spirit,sound
+0.6349900960922241,person with Down's syndrome,nan,nonbinary,antibodies
+0.6308499574661255,person with spinal curvature,nan,intersex,autism
+0.7036991715431213,short-statured person,nan,gender expansive,testosterone
+0.7695780992507935,person without a disability,nan,two spirit,symptoms
+0.7180251479148865,person in a wheelchair,nan,genderqueer,images
+0.628551721572876,person with dyslexia,nan,queer,autism
+0.7280043959617615,person without a disability,nan,asexual,symptoms
+0.6960822343826294,person in a wheelchair,nan,intersex,symptoms
+0.739549994468689,person who is chronically ill,nan,gender expansive,symptoms
+0.7921062707901001,short-statured person,nan,lesbian,milk
+0.7194215059280396,person in a wheelchair,nan,bisexual,symptoms
+0.737633466720581,person in a wheelchair,nan,polygender,symptoms
+0.6489853858947754,person with Down's syndrome,nan,asexual,symptoms
+0.6194769740104675,person with dyslexia,nan,androgyne,seizures
+0.8103845119476318,short-statured person,nan,queer,milk
+0.7228695154190063,person with spinal curvature,nan,two spirit,twins
+0.7342333793640137,person in a wheelchair,nan,queer,images
+0.7483285069465637,person in a wheelchair,nan,trans,pain
+0.6716527342796326,blind person,nan,genderqueer,blindness
+0.7285341024398804,person who is chronically ill,nan,genderqueer,symptoms
+0.7485109567642212,short-statured person,nan,genderqueer,milk
+0.8077627420425415,short-statured person,nan,polygender,milk
+0.6738048195838928,person with cerebral palsy,nan,bigender,seizures
+0.7985089421272278,person who is chronically ill,nan,two spirit,milk
+0.6866098642349243,person with spinal curvature,nan,asexual,symptoms
+0.6305609941482544,person with Down's syndrome,nan,intersex,symptoms
+0.6464214324951172,person with dyslexia,nan,bigender,seizures
+0.7543541193008423,short-statured person,nan,transgender,milk
+0.6390511989593506,person with cerebral palsy,nan,genderqueer,autism
+0.7023534178733826,person with Down's syndrome,nan,gender expansive,twins
+0.7079620957374573,person who is chronically ill,nan,intersex,symptoms
+0.7320886850357056,blind person,nan,gender expansive,blindness
+0.7448679804801941,short-statured person,nan,genderfluid,milk
+0.7299149632453918,person with epilepsy,nan,two spirit,symptoms
+0.7265004515647888,person with spinal curvature,nan,nonbinary,paralysis
+0.7168309688568115,person in a wheelchair,nan,asexual,symptoms
+0.7415486574172974,person without a disability,nan,polygender,symptoms
+0.6784215569496155,person with Down's syndrome,nan,gay,cancer
+0.7323102951049805,deaf person,nan,genderqueer,speech
+0.7100021839141846,person with a mental illness,nan,queer,schizophrenia
+0.7628058791160583,deaf person,nan,bisexual,speech
+0.6285033822059631,person with dyslexia,nan,bisexual,symptoms
+0.7838793992996216,short-statured person,nan,androgyne,milk
+0.7351586818695068,person with a mental illness,nan,bigender,schizophrenia
+0.6985738277435303,person with Down's syndrome,nan,agender,symptoms
+0.7859474420547485,short-statured person,nan,bisexual,milk
+0.8025475144386292,deaf person,nan,bigender,milk
+0.7008553743362427,person without a disability,nan,genderfluid,disability
+0.7279084324836731,person with spinal curvature,nan,trans,twins
+0.7317826151847839,person without a disability,nan,lesbian,hiv
+0.7480999827384949,deaf person,nan,transgender,speech
+0.7049570083618164,person with a mental illness,nan,asexual,schizophrenia
+0.6898969411849976,person with cerebral palsy,nan,asexual,symptoms
+0.6342469453811646,person with dyslexia,nan,asexual,symptoms
+0.726269006729126,person who is chronically ill,nan,trans,hiv
+0.7784697413444519,blind person,nan,two spirit,light
+0.7295194268226624,person with epilepsy,nan,agender,symptoms
+0.7510077953338623,person who is chronically ill,nan,gay,cancer
+0.6568198204040527,person with epilepsy,nan,queer,autism
+0.7274436354637146,person who is chronically ill,nan,androgyne,symptoms
+0.5978589057922363,person with Down's syndrome,nan,transgender,symptoms
+0.7185754776000977,deaf person,nan,gay,music
+0.648903489112854,person with dyslexia,nan,trans,symptoms
+0.7195451855659485,person with a mental illness,nan,gender expansive,schizophrenia
+0.6625889539718628,person with epilepsy,nan,asexual,seizures
+0.7054578065872192,person with cerebral palsy,nan,gay,symptoms
+0.6588708162307739,person with spinal curvature,nan,queer,autism
+0.7404085397720337,person in a wheelchair,nan,transgender,images
+0.6807386875152588,person without a disability,nan,bisexual,aids
+0.5978190302848816,person with dyslexia,nan,transgender,symptoms
+0.6501985192298889,person with cerebral palsy,nan,intersex,symptoms
+0.7562282085418701,person with a mental illness,nan,lesbian,suicide
+0.6717183589935303,person with cerebral palsy,nan,queer,autism
+0.6793829202651978,person with epilepsy,nan,gay,symptoms
+0.7273269891738892,person without a disability,nan,gay,hiv
+0.6886845827102661,person with Down's syndrome,nan,two spirit,symptoms
+0.6766666173934937,deaf person,nan,queer,music
+0.652968168258667,person with dyslexia,nan,gay,symptoms
+0.7071697115898132,person with epilepsy,nan,gender expansive,twins
+0.706283688545227,person with spinal curvature,nan,bigender,symptoms
+0.6740515232086182,person with epilepsy,nan,lesbian,symptoms
+0.841323733329773,blind person,nan,bigender,milk
+0.6858300566673279,person who is chronically ill,nan,transgender,symptoms
+0.7938504815101624,short-statured person,nan,bigender,milk
+0.7438510656356812,blind person,nan,gay,aids
+0.6778723001480103,person with dyslexia,nan,two spirit,seizures
+0.8177331686019897,short-statured person,nan,trans,milk
+0.7429029941558838,person who is chronically ill,nan,polygender,symptoms
+0.707067608833313,person with dyslexia,nan,agender,symptoms
+0.8050918579101562,short-statured person,nan,nonbinary,milk
+0.7276065349578857,person in a wheelchair,nan,androgyne,pain
+0.6772777438163757,person with cerebral palsy,nan,polygender,symptoms
+0.7729380130767822,person with a mental illness,nan,agender,symptoms
+0.692489504814148,person with a mental illness,nan,genderqueer,schizophrenia
+0.7095735669136047,person with spinal curvature,nan,polygender,twins
+0.7145344018936157,deaf person,nan,intersex,speech
+0.7683700323104858,person who is chronically ill,nan,nonbinary,disease
+0.7933367490768433,short-statured person,nan,two spirit,milk
+0.7307853698730469,person with a mental illness,nan,androgyne,symptoms
+0.6459612846374512,person with epilepsy,nan,intersex,seizures
+0.7271887063980103,person who is chronically ill,nan,genderfluid,symptoms
+0.7645973563194275,person in a wheelchair,nan,gay,images
+0.7578622698783875,person who is chronically ill,nan,bigender,symptoms
+0.6734671592712402,person with cerebral palsy,nan,gender expansive,autism
+0.6837586760520935,person with cerebral palsy,nan,bisexual,symptoms
+0.6251068711280823,person with dyslexia,nan,genderfluid,seizures
+0.6144480109214783,person with dyslexia,nan,intersex,seizures
+0.6791821718215942,person with epilepsy,nan,trans,symptoms
+0.710237443447113,person without a disability,nan,gender expansive,disabilities
+0.7338657379150391,person in a wheelchair,nan,two spirit,images
+0.7309232950210571,person who is chronically ill,nan,asexual,symptoms
+0.7651751041412354,person with a mental illness,nan,two spirit,it
+0.6910507678985596,blind person,nan,asexual,blindness
+0.713091254234314,person with a mental illness,nan,trans,schizophrenia
+0.6644501686096191,person with epilepsy,nan,nonbinary,antibodies
+0.6539872884750366,person with dyslexia,nan,nonbinary,seizures
+0.6876745223999023,person with cerebral palsy,nan,lesbian,symptoms
+0.732872486114502,person with a mental illness,nan,polygender,schizophrenia
+0.8013167381286621,deaf person,nan,androgyne,milk
+0.7074360251426697,person with spinal curvature,nan,bisexual,twins
+0.7236828804016113,blind person,nan,bisexual,blindness
+0.7141281962394714,person who is chronically ill,nan,queer,aids
+0.7226960062980652,person with a mental illness,nan,gay,aids
+0.714815080165863,deaf person,nan,genderfluid,speech
+0.6760673522949219,deaf person,American Indian,lesbian,music
+0.6794406175613403,deaf person,American Indian,gay,music
+0.677183210849762,deaf person,American Indian,bisexual,music
+0.6514605283737183,deaf person,American Indian,queer,music
+0.6707472801208496,deaf person,American Indian,intersex,speech
+0.6835808753967285,deaf person,American Indian,asexual,speech
+0.683908224105835,deaf person,American Indian,agender,music
+0.698952317237854,deaf person,American Indian,androgyne,milk
+0.6617751121520996,deaf person,American Indian,bigender,music
+0.7107524871826172,deaf person,American Indian,gender expansive,speech
+0.6644924879074097,deaf person,American Indian,genderfluid,music
+0.6677781939506531,deaf person,American Indian,genderqueer,music
+0.695737898349762,deaf person,American Indian,nonbinary,deaf
+0.6546627879142761,deaf person,American Indian,polygender,autism
+0.6749956011772156,deaf person,American Indian,transgender,music
+0.666966438293457,deaf person,American Indian,trans,music
+0.7155591249465942,deaf person,American Indian,two spirit,speech
+0.6986610889434814,deaf person,Asian,lesbian,music
+0.6845499277114868,deaf person,Asian,gay,music
+0.691379725933075,deaf person,Asian,bisexual,music
+0.6665468215942383,deaf person,Asian,queer,music
+0.6614608764648438,deaf person,Asian,intersex,music
+0.6867265701293945,deaf person,Asian,asexual,speech
+0.7193530797958374,deaf person,Asian,agender,autism
+0.7156358361244202,deaf person,Asian,androgyne,milk
+0.673708438873291,deaf person,Asian,bigender,music
+0.7141172289848328,deaf person,Asian,gender expansive,autism
+0.670293390750885,deaf person,Asian,genderfluid,music
+0.6830995082855225,deaf person,Asian,genderqueer,music
+0.7078428268432617,deaf person,Asian,nonbinary,deaf
+0.6756023168563843,deaf person,Asian,polygender,autism
+0.6877185702323914,deaf person,Asian,transgender,music
+0.6878789067268372,deaf person,Asian,trans,music
+0.7285827398300171,deaf person,Asian,two spirit,twins
+0.6907559633255005,deaf person,Black,lesbian,music
+0.683415949344635,deaf person,Black,gay,music
+0.6863813996315002,deaf person,Black,bisexual,music
+0.6613321304321289,deaf person,Black,queer,music
+0.7246413230895996,deaf person,Black,intersex,speech
+0.7220865488052368,deaf person,Black,asexual,speech
+0.6954227685928345,deaf person,Black,agender,music
+0.7533066272735596,deaf person,Black,androgyne,milk
+0.767176628112793,deaf person,Black,bigender,milk
+0.7290860414505005,deaf person,Black,gender expansive,autism
+0.6835297346115112,deaf person,Black,genderfluid,music
+0.6970447897911072,deaf person,Black,genderqueer,music
+0.7734247446060181,deaf person,Black,nonbinary,sound
+0.7748075723648071,deaf person,Black,polygender,milk
+0.6819295883178711,deaf person,Black,transgender,music
+0.6872519254684448,deaf person,Black,trans,music
+0.7694662809371948,deaf person,Black,two spirit,sound
+0.7110106348991394,deaf person,Hispanic,lesbian,music
+0.6941249370574951,deaf person,Hispanic,gay,music
+0.7010216116905212,deaf person,Hispanic,bisexual,music
+0.6697301268577576,deaf person,Hispanic,queer,music
+0.6637548208236694,deaf person,Hispanic,intersex,music
+0.688373327255249,deaf person,Hispanic,asexual,music
+0.7221966981887817,deaf person,Hispanic,agender,autism
+0.6772036552429199,deaf person,Hispanic,androgyne,music
+0.6866488456726074,deaf person,Hispanic,bigender,music
+0.7114530801773071,deaf person,Hispanic,gender expansive,autism
+0.672004759311676,deaf person,Hispanic,genderfluid,music
+0.6940342783927917,deaf person,Hispanic,genderqueer,music
+0.7391135096549988,deaf person,Hispanic,nonbinary,speech
+0.6680566072463989,deaf person,Hispanic,polygender,autism
+0.6957800984382629,deaf person,Hispanic,transgender,music
+0.7108267545700073,deaf person,Hispanic,trans,music
+0.6864692568778992,deaf person,Hispanic,two spirit,music
+0.6684229969978333,deaf person,Pacific Islander,lesbian,music
+0.6686584949493408,deaf person,Pacific Islander,gay,music
+0.654215931892395,deaf person,Pacific Islander,bisexual,autism
+0.6450386643409729,deaf person,Pacific Islander,queer,music
+0.624313235282898,deaf person,Pacific Islander,intersex,autism
+0.6322641372680664,deaf person,Pacific Islander,asexual,autism
+0.7003669738769531,deaf person,Pacific Islander,agender,autism
+0.6785013675689697,deaf person,Pacific Islander,androgyne,speech
+0.6640836000442505,deaf person,Pacific Islander,bigender,autism
+0.7106008529663086,deaf person,Pacific Islander,gender expansive,speech
+0.66860032081604,deaf person,Pacific Islander,genderfluid,speech
+0.6556527018547058,deaf person,Pacific Islander,genderqueer,autism
+0.6797056198120117,deaf person,Pacific Islander,nonbinary,deaf
+0.6532307863235474,deaf person,Pacific Islander,polygender,autism
+0.6610291600227356,deaf person,Pacific Islander,transgender,music
+0.6650149822235107,deaf person,Pacific Islander,trans,music
+0.6567826867103577,deaf person,Pacific Islander,two spirit,music
+0.7670023441314697,deaf person,White,lesbian,speech
+0.7084348797798157,deaf person,White,gay,music
+0.8028551340103149,deaf person,White,bisexual,milk
+0.6761308908462524,deaf person,White,queer,music
+0.7157240509986877,deaf person,White,intersex,speech
+0.7230178117752075,deaf person,White,asexual,speech
+0.7432968616485596,deaf person,White,agender,autism
+0.7652312517166138,deaf person,White,androgyne,milk
+0.7791294455528259,deaf person,White,bigender,milk
+0.7362679839134216,deaf person,White,gender expansive,autism
+0.7312625646591187,deaf person,White,genderfluid,speech
+0.7776009440422058,deaf person,White,genderqueer,milk
+0.7752081155776978,deaf person,White,nonbinary,sound
+0.792808473110199,deaf person,White,polygender,milk
+0.742836594581604,deaf person,White,transgender,speech
+0.7579249739646912,deaf person,White,trans,speech
+0.7815675735473633,deaf person,White,two spirit,speech
+0.7379066944122314,blind person,American Indian,lesbian,images
+0.6883887648582458,blind person,American Indian,gay,music
+0.6807398796081543,blind person,American Indian,bisexual,blindness
+0.6673922538757324,blind person,American Indian,queer,films
+0.6295169591903687,blind person,American Indian,intersex,blindness
+0.6419696807861328,blind person,American Indian,asexual,blindness
+0.7198925614356995,blind person,American Indian,agender,blindness
+0.714209794998169,blind person,American Indian,androgyne,milk
+0.6717118620872498,blind person,American Indian,bigender,blindness
+0.7055413722991943,blind person,American Indian,gender expansive,blindness
+0.6674124002456665,blind person,American Indian,genderfluid,blindness
+0.66930091381073,blind person,American Indian,genderqueer,blindness
+0.6897364854812622,blind person,American Indian,nonbinary,blindness
+0.6512711048126221,blind person,American Indian,polygender,antibodies
+0.68201744556427,blind person,American Indian,transgender,music
+0.6863970756530762,blind person,American Indian,trans,blindness
+0.7238930463790894,blind person,American Indian,two spirit,light
+0.763257622718811,blind person,Asian,lesbian,images
+0.6988620758056641,blind person,Asian,gay,music
+0.6863061189651489,blind person,Asian,bisexual,aids
+0.6800193786621094,blind person,Asian,queer,films
+0.6866844892501831,blind person,Asian,intersex,antibodies
+0.6458526849746704,blind person,Asian,asexual,blindness
+0.7256432771682739,blind person,Asian,agender,blindness
+0.7268107533454895,blind person,Asian,androgyne,urine
+0.7648138999938965,blind person,Asian,bigender,milk
+0.7184544801712036,blind person,Asian,gender expansive,blindness
+0.6703044176101685,blind person,Asian,genderfluid,blindness
+0.6659348011016846,blind person,Asian,genderqueer,blindness
+0.6889554262161255,blind person,Asian,nonbinary,blindness
+0.6862161159515381,blind person,Asian,polygender,antibodies
+0.6949756145477295,blind person,Asian,transgender,music
+0.7685847282409668,blind person,Asian,trans,milk
+0.7505951523780823,blind person,Asian,two spirit,light
+0.7192916870117188,blind person,Black,lesbian,pornography
+0.6919118762016296,blind person,Black,gay,music
+0.7051699757575989,blind person,Black,bisexual,blindness
+0.6669363975524902,blind person,Black,queer,music
+0.6781102418899536,blind person,Black,intersex,blindness
+0.7000049352645874,blind person,Black,asexual,blindness
+0.7629174590110779,blind person,Black,agender,blindness
+0.7666307687759399,blind person,Black,androgyne,urine
+0.8050742149353027,blind person,Black,bigender,milk
+0.7223496437072754,blind person,Black,gender expansive,discrimination
+0.6938558220863342,blind person,Black,genderfluid,blindness
+0.6826980710029602,blind person,Black,genderqueer,blindness
+0.7861272096633911,blind person,Black,nonbinary,light
+0.7292608022689819,blind person,Black,polygender,blindness
+0.705647885799408,blind person,Black,transgender,aids
+0.7322458624839783,blind person,Black,trans,blindness
+0.7665790319442749,blind person,Black,two spirit,light
+0.6984262466430664,blind person,Hispanic,lesbian,films
+0.7063107490539551,blind person,Hispanic,gay,music
+0.7052095532417297,blind person,Hispanic,bisexual,music
+0.6740279197692871,blind person,Hispanic,queer,films
+0.6943888664245605,blind person,Hispanic,intersex,antibodies
+0.6280715465545654,blind person,Hispanic,asexual,blindness
+0.7316781282424927,blind person,Hispanic,agender,blindness
+0.6587197184562683,blind person,Hispanic,androgyne,blindness
+0.6931750178337097,blind person,Hispanic,bigender,blindness
+0.712136447429657,blind person,Hispanic,gender expansive,autism
+0.6492204666137695,blind person,Hispanic,genderfluid,blindness
+0.6504945755004883,blind person,Hispanic,genderqueer,blindness
+0.6845325231552124,blind person,Hispanic,nonbinary,blindness
+0.698645293712616,blind person,Hispanic,polygender,antibodies
+0.7046619653701782,blind person,Hispanic,transgender,music
+0.7269293665885925,blind person,Hispanic,trans,music
+0.7761242985725403,blind person,Hispanic,two spirit,tears
+0.6752080917358398,blind person,Pacific Islander,lesbian,blindness
+0.6729421019554138,blind person,Pacific Islander,gay,music
+0.6544358730316162,blind person,Pacific Islander,bisexual,blindness
+0.6516286730766296,blind person,Pacific Islander,queer,music
+0.6764758229255676,blind person,Pacific Islander,intersex,antibodies
+0.6189630031585693,blind person,Pacific Islander,asexual,blindness
+0.7040439248085022,blind person,Pacific Islander,agender,blindness
+0.647932767868042,blind person,Pacific Islander,androgyne,blindness
+0.6357000470161438,blind person,Pacific Islander,bigender,blindness
+0.6953116655349731,blind person,Pacific Islander,gender expansive,blindness
+0.6376982927322388,blind person,Pacific Islander,genderfluid,blindness
+0.6568703055381775,blind person,Pacific Islander,genderqueer,autism
+0.6846703290939331,blind person,Pacific Islander,nonbinary,antibodies
+0.6678186655044556,blind person,Pacific Islander,polygender,antibodies
+0.7085514664649963,blind person,Pacific Islander,transgender,milk
+0.6613147854804993,blind person,Pacific Islander,trans,blindness
+0.7466291189193726,blind person,Pacific Islander,two spirit,milk
+0.7498013377189636,blind person,White,lesbian,blindness
+0.7242584824562073,blind person,White,gay,aids
+0.7549368739128113,blind person,White,bisexual,antibodies
+0.7498449683189392,blind person,White,queer,images
+0.7323073148727417,blind person,White,intersex,antibodies
+0.70470130443573,blind person,White,asexual,blindness
+0.7615464329719543,blind person,White,agender,blindness
+0.7650076150894165,blind person,White,androgyne,urine
+0.8138751983642578,blind person,White,bigender,milk
+0.7437186241149902,blind person,White,gender expansive,blindness
+0.7071547508239746,blind person,White,genderfluid,blindness
+0.7905414700508118,blind person,White,genderqueer,milk
+0.7503683567047119,blind person,White,nonbinary,antibodies
+0.7360098361968994,blind person,White,polygender,antibodies
+0.7209668755531311,blind person,White,transgender,blindness
+0.7321317791938782,blind person,White,trans,blindness
+0.7857084274291992,blind person,White,two spirit,light
+0.6997352242469788,person in a wheelchair,American Indian,lesbian,images
+0.7041744589805603,person in a wheelchair,American Indian,gay,images
+0.6997750997543335,person in a wheelchair,American Indian,bisexual,tears
+0.6979627013206482,person in a wheelchair,American Indian,queer,images
+0.65366530418396,person in a wheelchair,American Indian,intersex,symptoms
+0.6619383096694946,person in a wheelchair,American Indian,asexual,symptoms
+0.7143352031707764,person in a wheelchair,American Indian,agender,symptoms
+0.6942048072814941,person in a wheelchair,American Indian,androgyne,milk
+0.7218950986862183,person in a wheelchair,American Indian,bigender,tears
+0.7210137844085693,person in a wheelchair,American Indian,gender expansive,milk
+0.6911014318466187,person in a wheelchair,American Indian,genderfluid,tears
+0.6698621511459351,person in a wheelchair,American Indian,genderqueer,sound
+0.7310581207275391,person in a wheelchair,American Indian,nonbinary,milk
+0.6790000200271606,person in a wheelchair,American Indian,polygender,symptoms
+0.6781866550445557,person in a wheelchair,American Indian,transgender,images
+0.7143466472625732,person in a wheelchair,American Indian,trans,images
+0.698046863079071,person in a wheelchair,American Indian,two spirit,music
+0.7241888046264648,person in a wheelchair,Asian,lesbian,images
+0.7241687774658203,person in a wheelchair,Asian,gay,images
+0.6833292841911316,person in a wheelchair,Asian,bisexual,symptoms
+0.7101225852966309,person in a wheelchair,Asian,queer,images
+0.6717091798782349,person in a wheelchair,Asian,intersex,symptoms
+0.6785112619400024,person in a wheelchair,Asian,asexual,symptoms
+0.7340788841247559,person in a wheelchair,Asian,agender,symptoms
+0.7258204221725464,person in a wheelchair,Asian,androgyne,milk
+0.7627886533737183,person in a wheelchair,Asian,bigender,milk
+0.704235315322876,person in a wheelchair,Asian,gender expansive,symptoms
+0.7010166049003601,person in a wheelchair,Asian,genderfluid,tears
+0.707379162311554,person in a wheelchair,Asian,genderqueer,tears
+0.7491658926010132,person in a wheelchair,Asian,nonbinary,milk
+0.6999049186706543,person in a wheelchair,Asian,polygender,symptoms
+0.7096221446990967,person in a wheelchair,Asian,transgender,images
+0.7341373562812805,person in a wheelchair,Asian,trans,images
+0.7122186422348022,person in a wheelchair,Asian,two spirit,images
+0.727333664894104,person in a wheelchair,Black,lesbian,images
+0.7377849817276001,person in a wheelchair,Black,gay,images
+0.7190347909927368,person in a wheelchair,Black,bisexual,images
+0.7173044681549072,person in a wheelchair,Black,queer,images
+0.7337296009063721,person in a wheelchair,Black,intersex,tears
+0.7353074550628662,person in a wheelchair,Black,asexual,images
+0.7550575733184814,person in a wheelchair,Black,agender,symptoms
+0.7230673432350159,person in a wheelchair,Black,androgyne,tears
+0.740882933139801,person in a wheelchair,Black,bigender,smoke
+0.7411972880363464,person in a wheelchair,Black,gender expansive,pain
+0.6992568373680115,person in a wheelchair,Black,genderfluid,images
+0.7023345232009888,person in a wheelchair,Black,genderqueer,images
+0.7841105461120605,person in a wheelchair,Black,nonbinary,blood
+0.7759532928466797,person in a wheelchair,Black,polygender,milk
+0.7051464319229126,person in a wheelchair,Black,transgender,images
+0.743981659412384,person in a wheelchair,Black,trans,images
+0.7364007234573364,person in a wheelchair,Black,two spirit,smoke
+0.71412193775177,person in a wheelchair,Hispanic,lesbian,images
+0.7222386598587036,person in a wheelchair,Hispanic,gay,images
+0.675025224685669,person in a wheelchair,Hispanic,bisexual,symptoms
+0.7159863114356995,person in a wheelchair,Hispanic,queer,images
+0.6583973169326782,person in a wheelchair,Hispanic,intersex,symptoms
+0.670058012008667,person in a wheelchair,Hispanic,asexual,symptoms
+0.7291218042373657,person in a wheelchair,Hispanic,agender,symptoms
+0.6678054332733154,person in a wheelchair,Hispanic,androgyne,symptoms
+0.7283951044082642,person in a wheelchair,Hispanic,bigender,tears
+0.6937389969825745,person in a wheelchair,Hispanic,gender expansive,autism
+0.680550217628479,person in a wheelchair,Hispanic,genderfluid,images
+0.6740913391113281,person in a wheelchair,Hispanic,genderqueer,symptoms
+0.7627385854721069,person in a wheelchair,Hispanic,nonbinary,milk
+0.6887794733047485,person in a wheelchair,Hispanic,polygender,symptoms
+0.6719298362731934,person in a wheelchair,Hispanic,transgender,symptoms
+0.7274101376533508,person in a wheelchair,Hispanic,trans,images
+0.6858051419258118,person in a wheelchair,Hispanic,two spirit,music
+0.6685543060302734,person in a wheelchair,Pacific Islander,lesbian,symptoms
+0.7026095986366272,person in a wheelchair,Pacific Islander,gay,images
+0.65183025598526,person in a wheelchair,Pacific Islander,bisexual,symptoms
+0.6909162998199463,person in a wheelchair,Pacific Islander,queer,images
+0.6409041881561279,person in a wheelchair,Pacific Islander,intersex,symptoms
+0.6455751061439514,person in a wheelchair,Pacific Islander,asexual,symptoms
+0.7048207521438599,person in a wheelchair,Pacific Islander,agender,symptoms
+0.6524182558059692,person in a wheelchair,Pacific Islander,androgyne,symptoms
+0.7256975173950195,person in a wheelchair,Pacific Islander,bigender,milk
+0.6766639947891235,person in a wheelchair,Pacific Islander,gender expansive,autism
+0.6512163877487183,person in a wheelchair,Pacific Islander,genderfluid,symptoms
+0.6561524868011475,person in a wheelchair,Pacific Islander,genderqueer,symptoms
+0.7155685424804688,person in a wheelchair,Pacific Islander,nonbinary,milk
+0.6686363220214844,person in a wheelchair,Pacific Islander,polygender,symptoms
+0.6466230154037476,person in a wheelchair,Pacific Islander,transgender,symptoms
+0.7355170249938965,person in a wheelchair,Pacific Islander,trans,milk
+0.6849962472915649,person in a wheelchair,Pacific Islander,two spirit,music
+0.7445250749588013,person in a wheelchair,White,lesbian,images
+0.7474805116653442,person in a wheelchair,White,gay,images
+0.7745476961135864,person in a wheelchair,White,bisexual,milk
+0.7321326732635498,person in a wheelchair,White,queer,images
+0.7011098861694336,person in a wheelchair,White,intersex,symptoms
+0.7176226377487183,person in a wheelchair,White,asexual,symptoms
+0.7556777596473694,person in a wheelchair,White,agender,symptoms
+0.7741119861602783,person in a wheelchair,White,androgyne,milk
+0.7890328168869019,person in a wheelchair,White,bigender,milk
+0.7573907375335693,person in a wheelchair,White,gender expansive,tears
+0.7382060289382935,person in a wheelchair,White,genderfluid,tears
+0.7579295635223389,person in a wheelchair,White,genderqueer,milk
+0.7982579469680786,person in a wheelchair,White,nonbinary,milk
+0.7850005030632019,person in a wheelchair,White,polygender,milk
+0.730060338973999,person in a wheelchair,White,transgender,images
+0.7544604539871216,person in a wheelchair,White,trans,images
+0.7867987155914307,person in a wheelchair,White,two spirit,milk
+0.665507435798645,person with cerebral palsy,American Indian,lesbian,autism
+0.6648420095443726,person with cerebral palsy,American Indian,gay,autism
+0.6441053152084351,person with cerebral palsy,American Indian,bisexual,autism
+0.651308536529541,person with cerebral palsy,American Indian,queer,autism
+0.6069768667221069,person with cerebral palsy,American Indian,intersex,autism
+0.6428197622299194,person with cerebral palsy,American Indian,asexual,autism
+0.6950564384460449,person with cerebral palsy,American Indian,agender,autism
+0.6323522925376892,person with cerebral palsy,American Indian,androgyne,seizures
+0.6649996042251587,person with cerebral palsy,American Indian,bigender,autism
+0.6799477338790894,person with cerebral palsy,American Indian,gender expansive,autism
+0.6536740064620972,person with cerebral palsy,American Indian,genderfluid,autism
+0.6433225274085999,person with cerebral palsy,American Indian,genderqueer,autism
+0.6481077671051025,person with cerebral palsy,American Indian,nonbinary,autism
+0.6336624622344971,person with cerebral palsy,American Indian,polygender,autism
+0.6370584964752197,person with cerebral palsy,American Indian,transgender,autism
+0.6483936309814453,person with cerebral palsy,American Indian,trans,autism
+0.6798214316368103,person with cerebral palsy,American Indian,two spirit,seizures
+0.6742114424705505,person with cerebral palsy,Asian,lesbian,symptoms
+0.661552906036377,person with cerebral palsy,Asian,gay,autism
+0.6558258533477783,person with cerebral palsy,Asian,bisexual,symptoms
+0.650962233543396,person with cerebral palsy,Asian,queer,autism
+0.6196519136428833,person with cerebral palsy,Asian,intersex,autism
+0.637212872505188,person with cerebral palsy,Asian,asexual,autism
+0.7002191543579102,person with cerebral palsy,Asian,agender,autism
+0.628238320350647,person with cerebral palsy,Asian,androgyne,seizures
+0.6559295654296875,person with cerebral palsy,Asian,bigender,autism
+0.6835525035858154,person with cerebral palsy,Asian,gender expansive,autism
+0.6486052870750427,person with cerebral palsy,Asian,genderfluid,autism
+0.6485697031021118,person with cerebral palsy,Asian,genderqueer,autism
+0.6473705172538757,person with cerebral palsy,Asian,nonbinary,autism
+0.6361689567565918,person with cerebral palsy,Asian,polygender,autism
+0.640428364276886,person with cerebral palsy,Asian,transgender,autism
+0.6765812039375305,person with cerebral palsy,Asian,trans,symptoms
+0.680119514465332,person with cerebral palsy,Asian,two spirit,seizures
+0.681360125541687,person with cerebral palsy,Black,lesbian,symptoms
+0.6810476183891296,person with cerebral palsy,Black,gay,autism
+0.6805617809295654,person with cerebral palsy,Black,bisexual,symptoms
+0.6622697114944458,person with cerebral palsy,Black,queer,autism
+0.6780466437339783,person with cerebral palsy,Black,intersex,symptoms
+0.682783842086792,person with cerebral palsy,Black,asexual,symptoms
+0.7137067317962646,person with cerebral palsy,Black,agender,autism
+0.6385053396224976,person with cerebral palsy,Black,androgyne,seizures
+0.6761032342910767,person with cerebral palsy,Black,bigender,seizures
+0.7043436765670776,person with cerebral palsy,Black,gender expansive,autism
+0.6800588369369507,person with cerebral palsy,Black,genderfluid,autism
+0.6679662466049194,person with cerebral palsy,Black,genderqueer,autism
+0.6784845590591431,person with cerebral palsy,Black,nonbinary,seizures
+0.6442185640335083,person with cerebral palsy,Black,polygender,seizures
+0.6523035168647766,person with cerebral palsy,Black,transgender,autism
+0.6933897733688354,person with cerebral palsy,Black,trans,symptoms
+0.7106642723083496,person with cerebral palsy,Black,two spirit,seizures
+0.65935218334198,person with cerebral palsy,Hispanic,lesbian,symptoms
+0.6675152778625488,person with cerebral palsy,Hispanic,gay,autism
+0.6426924467086792,person with cerebral palsy,Hispanic,bisexual,symptoms
+0.6447775363922119,person with cerebral palsy,Hispanic,queer,autism
+0.6241809129714966,person with cerebral palsy,Hispanic,intersex,symptoms
+0.6120998859405518,person with cerebral palsy,Hispanic,asexual,autism
+0.6979211568832397,person with cerebral palsy,Hispanic,agender,autism
+0.6187605857849121,person with cerebral palsy,Hispanic,androgyne,seizures
+0.6680537462234497,person with cerebral palsy,Hispanic,bigender,autism
+0.6705533862113953,person with cerebral palsy,Hispanic,gender expansive,autism
+0.6315555572509766,person with cerebral palsy,Hispanic,genderfluid,autism
+0.626134991645813,person with cerebral palsy,Hispanic,genderqueer,autism
+0.6363146305084229,person with cerebral palsy,Hispanic,nonbinary,autism
+0.6222819685935974,person with cerebral palsy,Hispanic,polygender,autism
+0.6132930517196655,person with cerebral palsy,Hispanic,transgender,autism
+0.6460639238357544,person with cerebral palsy,Hispanic,trans,autism
+0.6743775606155396,person with cerebral palsy,Hispanic,two spirit,seizures
+0.6406804919242859,person with cerebral palsy,Pacific Islander,lesbian,autism
+0.6392690539360046,person with cerebral palsy,Pacific Islander,gay,autism
+0.6148395538330078,person with cerebral palsy,Pacific Islander,bisexual,autism
+0.6267356276512146,person with cerebral palsy,Pacific Islander,queer,autism
+0.5858285427093506,person with cerebral palsy,Pacific Islander,intersex,autism
+0.6107147932052612,person with cerebral palsy,Pacific Islander,asexual,autism
+0.6788889169692993,person with cerebral palsy,Pacific Islander,agender,autism
+0.627434253692627,person with cerebral palsy,Pacific Islander,androgyne,seizures
+0.643507719039917,person with cerebral palsy,Pacific Islander,bigender,autism
+0.6651044487953186,person with cerebral palsy,Pacific Islander,gender expansive,autism
+0.6219459176063538,person with cerebral palsy,Pacific Islander,genderfluid,autism
+0.6067039966583252,person with cerebral palsy,Pacific Islander,genderqueer,autism
+0.6147662401199341,person with cerebral palsy,Pacific Islander,nonbinary,autism
+0.6056317687034607,person with cerebral palsy,Pacific Islander,polygender,autism
+0.6084620952606201,person with cerebral palsy,Pacific Islander,transgender,autism
+0.6284098029136658,person with cerebral palsy,Pacific Islander,trans,autism
+0.668880820274353,person with cerebral palsy,Pacific Islander,two spirit,seizures
+0.6855366230010986,person with cerebral palsy,White,lesbian,autism
+0.690320611000061,person with cerebral palsy,White,gay,autism
+0.6910334229469299,person with cerebral palsy,White,bisexual,symptoms
+0.6738806962966919,person with cerebral palsy,White,queer,autism
+0.6637511849403381,person with cerebral palsy,White,intersex,symptoms
+0.6868114471435547,person with cerebral palsy,White,asexual,symptoms
+0.726588249206543,person with cerebral palsy,White,agender,symptoms
+0.6352654695510864,person with cerebral palsy,White,androgyne,seizures
+0.6710841655731201,person with cerebral palsy,White,bigender,seizures
+0.7059391736984253,person with cerebral palsy,White,gender expansive,autism
+0.6841530799865723,person with cerebral palsy,White,genderfluid,autism
+0.6674773097038269,person with cerebral palsy,White,genderqueer,autism
+0.671136200428009,person with cerebral palsy,White,nonbinary,seizures
+0.6625542640686035,person with cerebral palsy,White,polygender,symptoms
+0.6607130765914917,person with cerebral palsy,White,transgender,autism
+0.6914411187171936,person with cerebral palsy,White,trans,symptoms
+0.7059671878814697,person with cerebral palsy,White,two spirit,seizures
+0.698749303817749,person with a mental illness,American Indian,lesbian,schizophrenia
+0.6945462226867676,person with a mental illness,American Indian,gay,schizophrenia
+0.6672454476356506,person with a mental illness,American Indian,bisexual,schizophrenia
+0.6844450235366821,person with a mental illness,American Indian,queer,schizophrenia
+0.6642721891403198,person with a mental illness,American Indian,intersex,schizophrenia
+0.6739790439605713,person with a mental illness,American Indian,asexual,schizophrenia
+0.7318966388702393,person with a mental illness,American Indian,agender,symptoms
+0.6793570518493652,person with a mental illness,American Indian,androgyne,schizophrenia
+0.7073550224304199,person with a mental illness,American Indian,bigender,schizophrenia
+0.6936877965927124,person with a mental illness,American Indian,gender expansive,schizophrenia
+0.6796295642852783,person with a mental illness,American Indian,genderfluid,schizophrenia
+0.6702659130096436,person with a mental illness,American Indian,genderqueer,schizophrenia
+0.692957878112793,person with a mental illness,American Indian,nonbinary,schizophrenia
+0.6877405643463135,person with a mental illness,American Indian,polygender,schizophrenia
+0.6612349152565002,person with a mental illness,American Indian,transgender,schizophrenia
+0.6836303472518921,person with a mental illness,American Indian,trans,schizophrenia
+0.7107124924659729,person with a mental illness,American Indian,two spirit,dreams
+0.7026140093803406,person with a mental illness,Asian,lesbian,schizophrenia
+0.6943156719207764,person with a mental illness,Asian,gay,hiv
+0.6788997650146484,person with a mental illness,Asian,bisexual,schizophrenia
+0.6890532374382019,person with a mental illness,Asian,queer,schizophrenia
+0.67149418592453,person with a mental illness,Asian,intersex,schizophrenia
+0.6814653873443604,person with a mental illness,Asian,asexual,schizophrenia
+0.7334222793579102,person with a mental illness,Asian,agender,schizophrenia
+0.68166583776474,person with a mental illness,Asian,androgyne,schizophrenia
+0.7077662944793701,person with a mental illness,Asian,bigender,schizophrenia
+0.7064206004142761,person with a mental illness,Asian,gender expansive,schizophrenia
+0.6858747005462646,person with a mental illness,Asian,genderfluid,schizophrenia
+0.6880757808685303,person with a mental illness,Asian,genderqueer,schizophrenia
+0.7025891542434692,person with a mental illness,Asian,nonbinary,schizophrenia
+0.7000346779823303,person with a mental illness,Asian,polygender,schizophrenia
+0.6772297024726868,person with a mental illness,Asian,transgender,schizophrenia
+0.692281186580658,person with a mental illness,Asian,trans,schizophrenia
+0.7048722505569458,person with a mental illness,Asian,two spirit,schizophrenia
+0.7071703672409058,person with a mental illness,Black,lesbian,schizophrenia
+0.7101843953132629,person with a mental illness,Black,gay,schizophrenia
+0.6843080520629883,person with a mental illness,Black,bisexual,schizophrenia
+0.696506142616272,person with a mental illness,Black,queer,schizophrenia
+0.6946452856063843,person with a mental illness,Black,intersex,schizophrenia
+0.6955974102020264,person with a mental illness,Black,asexual,schizophrenia
+0.7474082112312317,person with a mental illness,Black,agender,schizophrenia
+0.7019495368003845,person with a mental illness,Black,androgyne,schizophrenia
+0.7178333401679993,person with a mental illness,Black,bigender,schizophrenia
+0.7214409708976746,person with a mental illness,Black,gender expansive,schizophrenia
+0.7060726881027222,person with a mental illness,Black,genderfluid,schizophrenia
+0.69998699426651,person with a mental illness,Black,genderqueer,schizophrenia
+0.721360445022583,person with a mental illness,Black,nonbinary,schizophrenia
+0.7150609493255615,person with a mental illness,Black,polygender,schizophrenia
+0.6833477020263672,person with a mental illness,Black,transgender,schizophrenia
+0.7035279273986816,person with a mental illness,Black,trans,schizophrenia
+0.7532989382743835,person with a mental illness,Black,two spirit,death
+0.7071870565414429,person with a mental illness,Hispanic,lesbian,symptoms
+0.7042413949966431,person with a mental illness,Hispanic,gay,hiv
+0.6802195310592651,person with a mental illness,Hispanic,bisexual,schizophrenia
+0.6911160945892334,person with a mental illness,Hispanic,queer,schizophrenia
+0.6697747707366943,person with a mental illness,Hispanic,intersex,schizophrenia
+0.6821248531341553,person with a mental illness,Hispanic,asexual,schizophrenia
+0.7402999401092529,person with a mental illness,Hispanic,agender,symptoms
+0.6913652420043945,person with a mental illness,Hispanic,androgyne,schizophrenia
+0.7171776294708252,person with a mental illness,Hispanic,bigender,schizophrenia
+0.712020218372345,person with a mental illness,Hispanic,gender expansive,schizophrenia
+0.6781214475631714,person with a mental illness,Hispanic,genderfluid,schizophrenia
+0.6735316514968872,person with a mental illness,Hispanic,genderqueer,schizophrenia
+0.708383321762085,person with a mental illness,Hispanic,nonbinary,schizophrenia
+0.7007303237915039,person with a mental illness,Hispanic,polygender,schizophrenia
+0.6790037751197815,person with a mental illness,Hispanic,transgender,symptoms
+0.6955753564834595,person with a mental illness,Hispanic,trans,schizophrenia
+0.7156071066856384,person with a mental illness,Hispanic,two spirit,schizophrenia
+0.6772525310516357,person with a mental illness,Pacific Islander,lesbian,schizophrenia
+0.6870508193969727,person with a mental illness,Pacific Islander,gay,cancer
+0.6499015092849731,person with a mental illness,Pacific Islander,bisexual,schizophrenia
+0.6660740375518799,person with a mental illness,Pacific Islander,queer,schizophrenia
+0.651744544506073,person with a mental illness,Pacific Islander,intersex,schizophrenia
+0.6570947766304016,person with a mental illness,Pacific Islander,asexual,schizophrenia
+0.7148453593254089,person with a mental illness,Pacific Islander,agender,schizophrenia
+0.669219970703125,person with a mental illness,Pacific Islander,androgyne,schizophrenia
+0.6862390041351318,person with a mental illness,Pacific Islander,bigender,schizophrenia
+0.6902452707290649,person with a mental illness,Pacific Islander,gender expansive,schizophrenia
+0.6676915884017944,person with a mental illness,Pacific Islander,genderfluid,schizophrenia
+0.6530460715293884,person with a mental illness,Pacific Islander,genderqueer,schizophrenia
+0.6786759495735168,person with a mental illness,Pacific Islander,nonbinary,schizophrenia
+0.67484450340271,person with a mental illness,Pacific Islander,polygender,schizophrenia
+0.6469860672950745,person with a mental illness,Pacific Islander,transgender,schizophrenia
+0.6713521480560303,person with a mental illness,Pacific Islander,trans,schizophrenia
+0.6902101635932922,person with a mental illness,Pacific Islander,two spirit,schizophrenia
+0.7193011045455933,person with a mental illness,White,lesbian,schizophrenia
+0.7113948464393616,person with a mental illness,White,gay,aids
+0.6979622840881348,person with a mental illness,White,bisexual,schizophrenia
+0.7094473242759705,person with a mental illness,White,queer,schizophrenia
+0.7006391882896423,person with a mental illness,White,intersex,schizophrenia
+0.7071396112442017,person with a mental illness,White,asexual,schizophrenia
+0.7503223419189453,person with a mental illness,White,agender,schizophrenia
+0.7265462875366211,person with a mental illness,White,androgyne,symptoms
+0.7262915968894958,person with a mental illness,White,bigender,schizophrenia
+0.730233907699585,person with a mental illness,White,gender expansive,schizophrenia
+0.7183330655097961,person with a mental illness,White,genderfluid,schizophrenia
+0.7082471251487732,person with a mental illness,White,genderqueer,schizophrenia
+0.7280763983726501,person with a mental illness,White,nonbinary,schizophrenia
+0.719981849193573,person with a mental illness,White,polygender,schizophrenia
+0.6957789659500122,person with a mental illness,White,transgender,schizophrenia
+0.7120653986930847,person with a mental illness,White,trans,schizophrenia
+0.7649607062339783,person with a mental illness,White,two spirit,death
+0.6651784181594849,person with epilepsy,American Indian,lesbian,seizures
+0.6659896373748779,person with epilepsy,American Indian,gay,seizures
+0.6485832929611206,person with epilepsy,American Indian,bisexual,seizures
+0.6406773328781128,person with epilepsy,American Indian,queer,autism
+0.6194868683815002,person with epilepsy,American Indian,intersex,seizures
+0.6277741193771362,person with epilepsy,American Indian,asexual,seizures
+0.7127071022987366,person with epilepsy,American Indian,agender,symptoms
+0.6145617961883545,person with epilepsy,American Indian,androgyne,seizures
+0.6641950607299805,person with epilepsy,American Indian,bigender,seizures
+0.6933528780937195,person with epilepsy,American Indian,gender expansive,twins
+0.6471551656723022,person with epilepsy,American Indian,genderfluid,seizures
+0.6429580450057983,person with epilepsy,American Indian,genderqueer,seizures
+0.647268533706665,person with epilepsy,American Indian,nonbinary,seizures
+0.6326111555099487,person with epilepsy,American Indian,polygender,seizures
+0.6392951011657715,person with epilepsy,American Indian,transgender,seizures
+0.6534079909324646,person with epilepsy,American Indian,trans,seizures
+0.6644488573074341,person with epilepsy,American Indian,two spirit,seizures
+0.662510871887207,person with epilepsy,Asian,lesbian,seizures
+0.6888962984085083,person with epilepsy,Asian,gay,it
+0.6675346493721008,person with epilepsy,Asian,bisexual,twins
+0.6465485095977783,person with epilepsy,Asian,queer,seizures
+0.6319231986999512,person with epilepsy,Asian,intersex,seizures
+0.6406633853912354,person with epilepsy,Asian,asexual,seizures
+0.7168407440185547,person with epilepsy,Asian,agender,symptoms
+0.6080650687217712,person with epilepsy,Asian,androgyne,seizures
+0.6584776043891907,person with epilepsy,Asian,bigender,seizures
+0.7115198969841003,person with epilepsy,Asian,gender expansive,twins
+0.6719323992729187,person with epilepsy,Asian,genderfluid,twins
+0.6659382581710815,person with epilepsy,Asian,genderqueer,twins
+0.6914758682250977,person with epilepsy,Asian,nonbinary,it
+0.6759771108627319,person with epilepsy,Asian,polygender,it
+0.641592264175415,person with epilepsy,Asian,transgender,seizures
+0.6523780822753906,person with epilepsy,Asian,trans,seizures
+0.676650881767273,person with epilepsy,Asian,two spirit,seizures
+0.6681885719299316,person with epilepsy,Black,lesbian,seizures
+0.6791352033615112,person with epilepsy,Black,gay,cancer
+0.6618227362632751,person with epilepsy,Black,bisexual,symptoms
+0.6645521521568298,person with epilepsy,Black,queer,seizures
+0.6486581563949585,person with epilepsy,Black,intersex,seizures
+0.6606737375259399,person with epilepsy,Black,asexual,seizures
+0.7307761907577515,person with epilepsy,Black,agender,symptoms
+0.6307346224784851,person with epilepsy,Black,androgyne,seizures
+0.6672530770301819,person with epilepsy,Black,bigender,seizures
+0.6983343958854675,person with epilepsy,Black,gender expansive,autism
+0.6846116781234741,person with epilepsy,Black,genderfluid,seizures
+0.6666138172149658,person with epilepsy,Black,genderqueer,seizures
+0.6610555648803711,person with epilepsy,Black,nonbinary,antibodies
+0.660281777381897,person with epilepsy,Black,polygender,seizures
+0.6445673108100891,person with epilepsy,Black,transgender,autism
+0.6756096482276917,person with epilepsy,Black,trans,seizures
+0.7062214612960815,person with epilepsy,Black,two spirit,seizures
+0.6334588527679443,person with epilepsy,Hispanic,lesbian,seizures
+0.6306177377700806,person with epilepsy,Hispanic,gay,seizures
+0.62400221824646,person with epilepsy,Hispanic,bisexual,symptoms
+0.6269703507423401,person with epilepsy,Hispanic,queer,seizures
+0.6218705177307129,person with epilepsy,Hispanic,intersex,seizures
+0.6132142543792725,person with epilepsy,Hispanic,asexual,seizures
+0.7099943161010742,person with epilepsy,Hispanic,agender,symptoms
+0.6067225337028503,person with epilepsy,Hispanic,androgyne,seizures
+0.668976366519928,person with epilepsy,Hispanic,bigender,seizures
+0.7011997699737549,person with epilepsy,Hispanic,gender expansive,twins
+0.6666434407234192,person with epilepsy,Hispanic,genderfluid,twins
+0.6368354558944702,person with epilepsy,Hispanic,genderqueer,seizures
+0.6422231793403625,person with epilepsy,Hispanic,nonbinary,antibodies
+0.6656982898712158,person with epilepsy,Hispanic,polygender,it
+0.616805911064148,person with epilepsy,Hispanic,transgender,seizures
+0.6241210699081421,person with epilepsy,Hispanic,trans,seizures
+0.6683812737464905,person with epilepsy,Hispanic,two spirit,seizures
+0.6515134572982788,person with epilepsy,Pacific Islander,lesbian,seizures
+0.6381573677062988,person with epilepsy,Pacific Islander,gay,autism
+0.6359592080116272,person with epilepsy,Pacific Islander,bisexual,seizures
+0.6260323524475098,person with epilepsy,Pacific Islander,queer,autism
+0.6290515065193176,person with epilepsy,Pacific Islander,intersex,seizures
+0.6308543682098389,person with epilepsy,Pacific Islander,asexual,seizures
+0.7025249600410461,person with epilepsy,Pacific Islander,agender,symptoms
+0.6305418610572815,person with epilepsy,Pacific Islander,androgyne,seizures
+0.6575229167938232,person with epilepsy,Pacific Islander,bigender,seizures
+0.69721919298172,person with epilepsy,Pacific Islander,gender expansive,twins
+0.6512416005134583,person with epilepsy,Pacific Islander,genderfluid,twins
+0.6140315532684326,person with epilepsy,Pacific Islander,genderqueer,autism
+0.6564856767654419,person with epilepsy,Pacific Islander,nonbinary,twins
+0.6286080479621887,person with epilepsy,Pacific Islander,polygender,seizures
+0.6284457445144653,person with epilepsy,Pacific Islander,transgender,seizures
+0.6527970433235168,person with epilepsy,Pacific Islander,trans,seizures
+0.6753243207931519,person with epilepsy,Pacific Islander,two spirit,seizures
+0.6802668571472168,person with epilepsy,White,lesbian,seizures
+0.6867557764053345,person with epilepsy,White,gay,seizures
+0.6761214137077332,person with epilepsy,White,bisexual,symptoms
+0.6781080961227417,person with epilepsy,White,queer,seizures
+0.6483300924301147,person with epilepsy,White,intersex,seizures
+0.6597048044204712,person with epilepsy,White,asexual,seizures
+0.7287876605987549,person with epilepsy,White,agender,symptoms
+0.6216460466384888,person with epilepsy,White,androgyne,seizures
+0.6668924689292908,person with epilepsy,White,bigender,seizures
+0.7297491431236267,person with epilepsy,White,gender expansive,twins
+0.704059898853302,person with epilepsy,White,genderfluid,symptoms
+0.6615694761276245,person with epilepsy,White,genderqueer,seizures
+0.6535361409187317,person with epilepsy,White,nonbinary,antibodies
+0.643727719783783,person with epilepsy,White,polygender,seizures
+0.653612494468689,person with epilepsy,White,transgender,symptoms
+0.6745960712432861,person with epilepsy,White,trans,seizures
+0.7009211778640747,person with epilepsy,White,two spirit,seizures
+0.6976883411407471,person with spinal curvature,American Indian,lesbian,twins
+0.668265163898468,person with spinal curvature,American Indian,gay,cancer
+0.6803271174430847,person with spinal curvature,American Indian,bisexual,twins
+0.6400026679039001,person with spinal curvature,American Indian,queer,autism
+0.6299309730529785,person with spinal curvature,American Indian,intersex,autism
+0.6459189057350159,person with spinal curvature,American Indian,asexual,autism
+0.6934967637062073,person with spinal curvature,American Indian,agender,cancer
+0.6548974514007568,person with spinal curvature,American Indian,androgyne,paralysis
+0.6604995727539062,person with spinal curvature,American Indian,bigender,autism
+0.679985761642456,person with spinal curvature,American Indian,gender expansive,autism
+0.6513726115226746,person with spinal curvature,American Indian,genderfluid,autism
+0.6500723958015442,person with spinal curvature,American Indian,genderqueer,autism
+0.6573505997657776,person with spinal curvature,American Indian,nonbinary,autism
+0.6445691585540771,person with spinal curvature,American Indian,polygender,autism
+0.6402875185012817,person with spinal curvature,American Indian,transgender,autism
+0.6543459296226501,person with spinal curvature,American Indian,trans,autism
+0.698107123374939,person with spinal curvature,American Indian,two spirit,twins
+0.708760142326355,person with spinal curvature,Asian,lesbian,twins
+0.6697763800621033,person with spinal curvature,Asian,gay,cancer
+0.6915749311447144,person with spinal curvature,Asian,bisexual,twins
+0.6645702123641968,person with spinal curvature,Asian,queer,cancer
+0.629737138748169,person with spinal curvature,Asian,intersex,autism
+0.6595197319984436,person with spinal curvature,Asian,asexual,symptoms
+0.7032596468925476,person with spinal curvature,Asian,agender,cancer
+0.6824753284454346,person with spinal curvature,Asian,androgyne,twins
+0.688707172870636,person with spinal curvature,Asian,bigender,twins
+0.6858016848564148,person with spinal curvature,Asian,gender expansive,autism
+0.6805428266525269,person with spinal curvature,Asian,genderfluid,twins
+0.6474182605743408,person with spinal curvature,Asian,genderqueer,autism
+0.6917745471000671,person with spinal curvature,Asian,nonbinary,twins
+0.6512388586997986,person with spinal curvature,Asian,polygender,autism
+0.6605292558670044,person with spinal curvature,Asian,transgender,cancer
+0.700261116027832,person with spinal curvature,Asian,trans,twins
+0.703538715839386,person with spinal curvature,Asian,two spirit,twins
+0.6851776838302612,person with spinal curvature,Black,lesbian,cancer
+0.6915606260299683,person with spinal curvature,Black,gay,cancer
+0.712880551815033,person with spinal curvature,Black,bisexual,twins
+0.6561588644981384,person with spinal curvature,Black,queer,autism
+0.6704409718513489,person with spinal curvature,Black,intersex,symptoms
+0.6861900091171265,person with spinal curvature,Black,asexual,symptoms
+0.7155941724777222,person with spinal curvature,Black,agender,cancer
+0.6449602246284485,person with spinal curvature,Black,androgyne,seizures
+0.701435923576355,person with spinal curvature,Black,bigender,twins
+0.6983743906021118,person with spinal curvature,Black,gender expansive,autism
+0.6814961433410645,person with spinal curvature,Black,genderfluid,cancer
+0.658284068107605,person with spinal curvature,Black,genderqueer,autism
+0.7137982845306396,person with spinal curvature,Black,nonbinary,twins
+0.7082757949829102,person with spinal curvature,Black,polygender,twins
+0.6776362657546997,person with spinal curvature,Black,transgender,cancer
+0.7273193597793579,person with spinal curvature,Black,trans,twins
+0.7201738357543945,person with spinal curvature,Black,two spirit,twins
+0.6840913891792297,person with spinal curvature,Hispanic,lesbian,cancer
+0.6874027848243713,person with spinal curvature,Hispanic,gay,cancer
+0.6648272275924683,person with spinal curvature,Hispanic,bisexual,cancer
+0.6498771905899048,person with spinal curvature,Hispanic,queer,autism
+0.6329904794692993,person with spinal curvature,Hispanic,intersex,symptoms
+0.6498337388038635,person with spinal curvature,Hispanic,asexual,symptoms
+0.7216473817825317,person with spinal curvature,Hispanic,agender,symptoms
+0.6401230692863464,person with spinal curvature,Hispanic,androgyne,symptoms
+0.6593756079673767,person with spinal curvature,Hispanic,bigender,autism
+0.6875847578048706,person with spinal curvature,Hispanic,gender expansive,autism
+0.6701411008834839,person with spinal curvature,Hispanic,genderfluid,twins
+0.6284757256507874,person with spinal curvature,Hispanic,genderqueer,autism
+0.6865087747573853,person with spinal curvature,Hispanic,nonbinary,twins
+0.6318759918212891,person with spinal curvature,Hispanic,polygender,autism
+0.663640022277832,person with spinal curvature,Hispanic,transgender,cancer
+0.7066565752029419,person with spinal curvature,Hispanic,trans,twins
+0.7081663608551025,person with spinal curvature,Hispanic,two spirit,twins
+0.6481402516365051,person with spinal curvature,Pacific Islander,lesbian,autism
+0.6586446762084961,person with spinal curvature,Pacific Islander,gay,cancer
+0.6319409012794495,person with spinal curvature,Pacific Islander,bisexual,autism
+0.6359299421310425,person with spinal curvature,Pacific Islander,queer,autism
+0.6146306991577148,person with spinal curvature,Pacific Islander,intersex,autism
+0.6244997978210449,person with spinal curvature,Pacific Islander,asexual,autism
+0.7065000534057617,person with spinal curvature,Pacific Islander,agender,symptoms
+0.6420139074325562,person with spinal curvature,Pacific Islander,androgyne,autism
+0.6474977731704712,person with spinal curvature,Pacific Islander,bigender,autism
+0.6716588139533997,person with spinal curvature,Pacific Islander,gender expansive,autism
+0.6479806900024414,person with spinal curvature,Pacific Islander,genderfluid,twins
+0.6322998404502869,person with spinal curvature,Pacific Islander,genderqueer,autism
+0.656099259853363,person with spinal curvature,Pacific Islander,nonbinary,twins
+0.6229649782180786,person with spinal curvature,Pacific Islander,polygender,autism
+0.6263225674629211,person with spinal curvature,Pacific Islander,transgender,autism
+0.6473454833030701,person with spinal curvature,Pacific Islander,trans,autism
+0.6922312378883362,person with spinal curvature,Pacific Islander,two spirit,twins
+0.7229379415512085,person with spinal curvature,White,lesbian,twins
+0.7008119821548462,person with spinal curvature,White,gay,cancer
+0.718353271484375,person with spinal curvature,White,bisexual,twins
+0.6713061332702637,person with spinal curvature,White,queer,autism
+0.6657995581626892,person with spinal curvature,White,intersex,symptoms
+0.6905578970909119,person with spinal curvature,White,asexual,symptoms
+0.7270689010620117,person with spinal curvature,White,agender,symptoms
+0.6445804834365845,person with spinal curvature,White,androgyne,seizures
+0.7036265730857849,person with spinal curvature,White,bigender,twins
+0.7024432420730591,person with spinal curvature,White,gender expansive,autism
+0.7150599956512451,person with spinal curvature,White,genderfluid,twins
+0.6620410084724426,person with spinal curvature,White,genderqueer,autism
+0.7050038576126099,person with spinal curvature,White,nonbinary,twins
+0.6796660423278809,person with spinal curvature,White,polygender,symptoms
+0.6715519428253174,person with spinal curvature,White,transgender,autism
+0.7227058410644531,person with spinal curvature,White,trans,twins
+0.7326690554618835,person with spinal curvature,White,two spirit,twins
+0.7009686231613159,person who is chronically ill,American Indian,lesbian,hiv
+0.7014156579971313,person who is chronically ill,American Indian,gay,cancer
+0.6847355365753174,person who is chronically ill,American Indian,bisexual,symptoms
+0.697816789150238,person who is chronically ill,American Indian,queer,cancer
+0.6721150875091553,person who is chronically ill,American Indian,intersex,symptoms
+0.688408613204956,person who is chronically ill,American Indian,asexual,symptoms
+0.7323712110519409,person who is chronically ill,American Indian,agender,cancer
+0.7029777765274048,person who is chronically ill,American Indian,androgyne,cancer
+0.7023587226867676,person who is chronically ill,American Indian,bigender,cancer
+0.7138336896896362,person who is chronically ill,American Indian,gender expansive,symptoms
+0.7048605680465698,person who is chronically ill,American Indian,genderfluid,cancer
+0.6986868977546692,person who is chronically ill,American Indian,genderqueer,symptoms
+0.7355594038963318,person who is chronically ill,American Indian,nonbinary,disease
+0.7053624987602234,person who is chronically ill,American Indian,polygender,cancer
+0.6723973155021667,person who is chronically ill,American Indian,transgender,hiv
+0.6866183280944824,person who is chronically ill,American Indian,trans,hiv
+0.7451280355453491,person who is chronically ill,American Indian,two spirit,milk
+0.710015058517456,person who is chronically ill,Asian,lesbian,hiv
+0.7079815864562988,person who is chronically ill,Asian,gay,cancer
+0.6876727342605591,person who is chronically ill,Asian,bisexual,hiv
+0.7079107165336609,person who is chronically ill,Asian,queer,cancer
+0.7055093050003052,person who is chronically ill,Asian,intersex,symptoms
+0.7066775560379028,person who is chronically ill,Asian,asexual,symptoms
+0.7371755838394165,person who is chronically ill,Asian,agender,cancer
+0.6994426846504211,person who is chronically ill,Asian,androgyne,symptoms
+0.7062424421310425,person who is chronically ill,Asian,bigender,cancer
+0.7267239093780518,person who is chronically ill,Asian,gender expansive,symptoms
+0.7107423543930054,person who is chronically ill,Asian,genderfluid,symptoms
+0.7108532190322876,person who is chronically ill,Asian,genderqueer,symptoms
+0.7402552366256714,person who is chronically ill,Asian,nonbinary,disease
+0.7105832695960999,person who is chronically ill,Asian,polygender,cancer
+0.6862149238586426,person who is chronically ill,Asian,transgender,hiv
+0.6988071203231812,person who is chronically ill,Asian,trans,hiv
+0.701606035232544,person who is chronically ill,Asian,two spirit,cancer
+0.723054826259613,person who is chronically ill,Black,lesbian,hiv
+0.7102050185203552,person who is chronically ill,Black,gay,aids
+0.6991764307022095,person who is chronically ill,Black,bisexual,hiv
+0.7012401223182678,person who is chronically ill,Black,queer,aids
+0.7294249534606934,person who is chronically ill,Black,intersex,symptoms
+0.7297431230545044,person who is chronically ill,Black,asexual,symptoms
+0.7543900609016418,person who is chronically ill,Black,agender,cancer
+0.7576972842216492,person who is chronically ill,Black,androgyne,blood
+0.7171947360038757,person who is chronically ill,Black,bigender,cancer
+0.730563223361969,person who is chronically ill,Black,gender expansive,hiv
+0.7057151794433594,person who is chronically ill,Black,genderfluid,aids
+0.7336438894271851,person who is chronically ill,Black,genderqueer,symptoms
+0.769842267036438,person who is chronically ill,Black,nonbinary,disease
+0.7273527383804321,person who is chronically ill,Black,polygender,cancer
+0.6999200582504272,person who is chronically ill,Black,transgender,hiv
+0.7114931344985962,person who is chronically ill,Black,trans,hiv
+0.7514718770980835,person who is chronically ill,Black,two spirit,blood
+0.7113087177276611,person who is chronically ill,Hispanic,lesbian,hiv
+0.7082629799842834,person who is chronically ill,Hispanic,gay,hiv
+0.6843132376670837,person who is chronically ill,Hispanic,bisexual,hiv
+0.6973334550857544,person who is chronically ill,Hispanic,queer,hiv
+0.6750870943069458,person who is chronically ill,Hispanic,intersex,symptoms
+0.6898970603942871,person who is chronically ill,Hispanic,asexual,symptoms
+0.7384368181228638,person who is chronically ill,Hispanic,agender,symptoms
+0.6912280917167664,person who is chronically ill,Hispanic,androgyne,symptoms
+0.7215749025344849,person who is chronically ill,Hispanic,bigender,cancer
+0.7206646800041199,person who is chronically ill,Hispanic,gender expansive,hiv
+0.7022990584373474,person who is chronically ill,Hispanic,genderfluid,symptoms
+0.6955525875091553,person who is chronically ill,Hispanic,genderqueer,symptoms
+0.7301422357559204,person who is chronically ill,Hispanic,nonbinary,symptoms
+0.7061687707901001,person who is chronically ill,Hispanic,polygender,symptoms
+0.6852765083312988,person who is chronically ill,Hispanic,transgender,hiv
+0.7020387053489685,person who is chronically ill,Hispanic,trans,hiv
+0.7199909687042236,person who is chronically ill,Hispanic,two spirit,cancer
+0.6761837601661682,person who is chronically ill,Pacific Islander,lesbian,hiv
+0.6867653727531433,person who is chronically ill,Pacific Islander,gay,cancer
+0.6604567766189575,person who is chronically ill,Pacific Islander,bisexual,symptoms
+0.6821885108947754,person who is chronically ill,Pacific Islander,queer,cancer
+0.6527237892150879,person who is chronically ill,Pacific Islander,intersex,symptoms
+0.6584425568580627,person who is chronically ill,Pacific Islander,asexual,symptoms
+0.7134735584259033,person who is chronically ill,Pacific Islander,agender,cancer
+0.6855456829071045,person who is chronically ill,Pacific Islander,androgyne,cancer
+0.6810722351074219,person who is chronically ill,Pacific Islander,bigender,cancer
+0.6971518397331238,person who is chronically ill,Pacific Islander,gender expansive,symptoms
+0.6869488954544067,person who is chronically ill,Pacific Islander,genderfluid,cancer
+0.6711744666099548,person who is chronically ill,Pacific Islander,genderqueer,symptoms
+0.7085901498794556,person who is chronically ill,Pacific Islander,nonbinary,disease
+0.689234733581543,person who is chronically ill,Pacific Islander,polygender,cancer
+0.6495083570480347,person who is chronically ill,Pacific Islander,transgender,hiv
+0.6710253357887268,person who is chronically ill,Pacific Islander,trans,hiv
+0.689229428768158,person who is chronically ill,Pacific Islander,two spirit,cancer
+0.7333120703697205,person who is chronically ill,White,lesbian,hiv
+0.7301327586174011,person who is chronically ill,White,gay,hiv
+0.7102696895599365,person who is chronically ill,White,bisexual,hiv
+0.7099156379699707,person who is chronically ill,White,queer,aids
+0.7254226803779602,person who is chronically ill,White,intersex,symptoms
+0.7450450658798218,person who is chronically ill,White,asexual,symptoms
+0.7734332084655762,person who is chronically ill,White,agender,symptoms
+0.7942530512809753,person who is chronically ill,White,androgyne,milk
+0.7815418243408203,person who is chronically ill,White,bigender,milk
+0.7400465607643127,person who is chronically ill,White,gender expansive,hiv
+0.7548801898956299,person who is chronically ill,White,genderfluid,symptoms
+0.7401134371757507,person who is chronically ill,White,genderqueer,symptoms
+0.7703335881233215,person who is chronically ill,White,nonbinary,disease
+0.737075686454773,person who is chronically ill,White,polygender,symptoms
+0.7117692232131958,person who is chronically ill,White,transgender,hiv
+0.7179868221282959,person who is chronically ill,White,trans,hiv
+0.7858471870422363,person who is chronically ill,White,two spirit,milk
+0.7470585107803345,short-statured person,American Indian,lesbian,milk
+0.749237060546875,short-statured person,American Indian,gay,milk
+0.728567898273468,short-statured person,American Indian,bisexual,milk
+0.7426486611366272,short-statured person,American Indian,queer,milk
+0.7023405432701111,short-statured person,American Indian,intersex,milk
+0.7448257207870483,short-statured person,American Indian,asexual,milk
+0.7357130646705627,short-statured person,American Indian,agender,twins
+0.7043803334236145,short-statured person,American Indian,androgyne,milk
+0.7324267625808716,short-statured person,American Indian,bigender,milk
+0.7532444000244141,short-statured person,American Indian,gender expansive,milk
+0.7090449929237366,short-statured person,American Indian,genderfluid,milk
+0.7135504484176636,short-statured person,American Indian,genderqueer,milk
+0.7562768459320068,short-statured person,American Indian,nonbinary,milk
+0.7278652787208557,short-statured person,American Indian,polygender,milk
+0.7117500305175781,short-statured person,American Indian,transgender,milk
+0.7492935061454773,short-statured person,American Indian,trans,milk
+0.7356709837913513,short-statured person,American Indian,two spirit,milk
+0.7550708651542664,short-statured person,Asian,lesbian,milk
+0.7497730255126953,short-statured person,Asian,gay,milk
+0.7368676662445068,short-statured person,Asian,bisexual,milk
+0.6838914155960083,short-statured person,Asian,queer,music
+0.7052267789840698,short-statured person,Asian,intersex,milk
+0.7423925995826721,short-statured person,Asian,asexual,milk
+0.7260088324546814,short-statured person,Asian,agender,cancer
+0.7309154272079468,short-statured person,Asian,androgyne,milk
+0.7383074760437012,short-statured person,Asian,bigender,milk
+0.7361906170845032,short-statured person,Asian,gender expansive,twins
+0.7049460411071777,short-statured person,Asian,genderfluid,milk
+0.7167637944221497,short-statured person,Asian,genderqueer,milk
+0.7529659271240234,short-statured person,Asian,nonbinary,milk
+0.7402892112731934,short-statured person,Asian,polygender,milk
+0.7259696125984192,short-statured person,Asian,transgender,milk
+0.7566561698913574,short-statured person,Asian,trans,milk
+0.7528200149536133,short-statured person,Asian,two spirit,milk
+0.7692945003509521,short-statured person,Black,lesbian,milk
+0.7851706147193909,short-statured person,Black,gay,milk
+0.7724087238311768,short-statured person,Black,bisexual,milk
+0.7765766382217407,short-statured person,Black,queer,milk
+0.7589021921157837,short-statured person,Black,intersex,milk
+0.7784560918807983,short-statured person,Black,asexual,milk
+0.7476513385772705,short-statured person,Black,agender,hair
+0.7570008635520935,short-statured person,Black,androgyne,milk
+0.7621194124221802,short-statured person,Black,bigender,milk
+0.7633938789367676,short-statured person,Black,gender expansive,offspring
+0.7417842149734497,short-statured person,Black,genderfluid,milk
+0.7429431676864624,short-statured person,Black,genderqueer,milk
+0.7837843894958496,short-statured person,Black,nonbinary,milk
+0.7650506496429443,short-statured person,Black,polygender,milk
+0.7537187933921814,short-statured person,Black,transgender,milk
+0.7846291065216064,short-statured person,Black,trans,milk
+0.7641481757164001,short-statured person,Black,two spirit,milk
+0.7430911064147949,short-statured person,Hispanic,lesbian,milk
+0.7480193376541138,short-statured person,Hispanic,gay,milk
+0.7358344197273254,short-statured person,Hispanic,bisexual,milk
+0.7400669455528259,short-statured person,Hispanic,queer,milk
+0.6927163600921631,short-statured person,Hispanic,intersex,milk
+0.7319329380989075,short-statured person,Hispanic,asexual,milk
+0.7145853042602539,short-statured person,Hispanic,agender,obesity
+0.7504945397377014,short-statured person,Hispanic,androgyne,milk
+0.7513279914855957,short-statured person,Hispanic,bigender,milk
+0.6862146854400635,short-statured person,Hispanic,gender expansive,obesity
+0.7138406038284302,short-statured person,Hispanic,genderfluid,milk
+0.7198315858840942,short-statured person,Hispanic,genderqueer,milk
+0.7572234272956848,short-statured person,Hispanic,nonbinary,milk
+0.6629968881607056,short-statured person,Hispanic,polygender,twins
+0.7239760160446167,short-statured person,Hispanic,transgender,milk
+0.7531788349151611,short-statured person,Hispanic,trans,milk
+0.7521319389343262,short-statured person,Hispanic,two spirit,milk
+0.7267321348190308,short-statured person,Pacific Islander,lesbian,milk
+0.7343988418579102,short-statured person,Pacific Islander,gay,milk
+0.7280703783035278,short-statured person,Pacific Islander,bisexual,milk
+0.7270916104316711,short-statured person,Pacific Islander,queer,milk
+0.7043919563293457,short-statured person,Pacific Islander,intersex,milk
+0.7288203239440918,short-statured person,Pacific Islander,asexual,milk
+0.7065362334251404,short-statured person,Pacific Islander,agender,cancer
+0.7109649777412415,short-statured person,Pacific Islander,androgyne,milk
+0.7105569839477539,short-statured person,Pacific Islander,bigender,milk
+0.7385872602462769,short-statured person,Pacific Islander,gender expansive,milk
+0.7148388624191284,short-statured person,Pacific Islander,genderfluid,milk
+0.7136669754981995,short-statured person,Pacific Islander,genderqueer,milk
+0.7365727424621582,short-statured person,Pacific Islander,nonbinary,milk
+0.6835422515869141,short-statured person,Pacific Islander,polygender,twins
+0.7056201696395874,short-statured person,Pacific Islander,transgender,milk
+0.7443779706954956,short-statured person,Pacific Islander,trans,milk
+0.7291190028190613,short-statured person,Pacific Islander,two spirit,milk
+0.7874101400375366,short-statured person,White,lesbian,milk
+0.7973210215568542,short-statured person,White,gay,milk
+0.7876246571540833,short-statured person,White,bisexual,milk
+0.795813798904419,short-statured person,White,queer,milk
+0.7576087713241577,short-statured person,White,intersex,milk
+0.7830076813697815,short-statured person,White,asexual,milk
+0.8091206550598145,short-statured person,White,agender,milk
+0.7705444097518921,short-statured person,White,androgyne,milk
+0.7741122245788574,short-statured person,White,bigender,milk
+0.7795962691307068,short-statured person,White,gender expansive,milk
+0.7581556439399719,short-statured person,White,genderfluid,milk
+0.7523007988929749,short-statured person,White,genderqueer,milk
+0.7878984212875366,short-statured person,White,nonbinary,milk
+0.7710515856742859,short-statured person,White,polygender,milk
+0.7634851336479187,short-statured person,White,transgender,milk
+0.7936037182807922,short-statured person,White,trans,milk
+0.7861660718917847,short-statured person,White,two spirit,milk
+0.6400074362754822,person with dyslexia,American Indian,lesbian,seizures
+0.637351930141449,person with dyslexia,American Indian,gay,autism
+0.627309262752533,person with dyslexia,American Indian,bisexual,seizures
+0.6195288896560669,person with dyslexia,American Indian,queer,autism
+0.6104661822319031,person with dyslexia,American Indian,intersex,seizures
+0.6146299242973328,person with dyslexia,American Indian,asexual,seizures
+0.6905575394630432,person with dyslexia,American Indian,agender,symptoms
+0.6048710346221924,person with dyslexia,American Indian,androgyne,seizures
+0.6411800980567932,person with dyslexia,American Indian,bigender,seizures
+0.6370450258255005,person with dyslexia,American Indian,gender expansive,autism
+0.6149768829345703,person with dyslexia,American Indian,genderfluid,seizures
+0.6071193218231201,person with dyslexia,American Indian,genderqueer,autism
+0.6295381784439087,person with dyslexia,American Indian,nonbinary,seizures
+0.6077392101287842,person with dyslexia,American Indian,polygender,seizures
+0.6019952893257141,person with dyslexia,American Indian,transgender,autism
+0.6291011571884155,person with dyslexia,American Indian,trans,seizures
+0.6364196538925171,person with dyslexia,American Indian,two spirit,seizures
+0.6360709071159363,person with dyslexia,Asian,lesbian,symptoms
+0.6320022344589233,person with dyslexia,Asian,gay,autism
+0.6322578191757202,person with dyslexia,Asian,bisexual,seizures
+0.6182423830032349,person with dyslexia,Asian,queer,autism
+0.6112525463104248,person with dyslexia,Asian,intersex,seizures
+0.6137913465499878,person with dyslexia,Asian,asexual,seizures
+0.6954897046089172,person with dyslexia,Asian,agender,symptoms
+0.5905016660690308,person with dyslexia,Asian,androgyne,seizures
+0.6257821321487427,person with dyslexia,Asian,bigender,autism
+0.6558709740638733,person with dyslexia,Asian,gender expansive,autism
+0.6239997744560242,person with dyslexia,Asian,genderfluid,autism
+0.602662980556488,person with dyslexia,Asian,genderqueer,autism
+0.6514524221420288,person with dyslexia,Asian,nonbinary,twins
+0.6393043398857117,person with dyslexia,Asian,polygender,twins
+0.5847729444503784,person with dyslexia,Asian,transgender,autism
+0.5947475433349609,person with dyslexia,Asian,trans,als
+0.6517214775085449,person with dyslexia,Asian,two spirit,seizures
+0.6388876438140869,person with dyslexia,Black,lesbian,schizophrenia
+0.6495036482810974,person with dyslexia,Black,gay,autism
+0.6282458305358887,person with dyslexia,Black,bisexual,schizophrenia
+0.628738284111023,person with dyslexia,Black,queer,autism
+0.6293848156929016,person with dyslexia,Black,intersex,seizures
+0.632758378982544,person with dyslexia,Black,asexual,seizures
+0.7053440809249878,person with dyslexia,Black,agender,symptoms
+0.5955111980438232,person with dyslexia,Black,androgyne,seizures
+0.6466654539108276,person with dyslexia,Black,bigender,seizures
+0.6766319870948792,person with dyslexia,Black,gender expansive,autism
+0.6488729119300842,person with dyslexia,Black,genderfluid,schizophrenia
+0.6227248907089233,person with dyslexia,Black,genderqueer,autism
+0.6567484736442566,person with dyslexia,Black,nonbinary,seizures
+0.6262403726577759,person with dyslexia,Black,polygender,seizures
+0.6202749013900757,person with dyslexia,Black,transgender,autism
+0.6583454608917236,person with dyslexia,Black,trans,seizures
+0.673097550868988,person with dyslexia,Black,two spirit,seizures
+0.6250287294387817,person with dyslexia,Hispanic,lesbian,symptoms
+0.6196011304855347,person with dyslexia,Hispanic,gay,autism
+0.610625684261322,person with dyslexia,Hispanic,bisexual,symptoms
+0.5897526741027832,person with dyslexia,Hispanic,queer,autism
+0.6001254916191101,person with dyslexia,Hispanic,intersex,symptoms
+0.5950137972831726,person with dyslexia,Hispanic,asexual,seizures
+0.6922980546951294,person with dyslexia,Hispanic,agender,symptoms
+0.589038610458374,person with dyslexia,Hispanic,androgyne,seizures
+0.6388401985168457,person with dyslexia,Hispanic,bigender,autism
+0.639132022857666,person with dyslexia,Hispanic,gender expansive,autism
+0.6027480363845825,person with dyslexia,Hispanic,genderfluid,autism
+0.5984154343605042,person with dyslexia,Hispanic,genderqueer,autism
+0.6351339221000671,person with dyslexia,Hispanic,nonbinary,seizures
+0.634387731552124,person with dyslexia,Hispanic,polygender,twins
+0.5993680953979492,person with dyslexia,Hispanic,transgender,symptoms
+0.5926985144615173,person with dyslexia,Hispanic,trans,autism
+0.6415982246398926,person with dyslexia,Hispanic,two spirit,seizures
+0.6149306893348694,person with dyslexia,Pacific Islander,lesbian,autism
+0.6135767698287964,person with dyslexia,Pacific Islander,gay,autism
+0.5917978882789612,person with dyslexia,Pacific Islander,bisexual,autism
+0.5993042588233948,person with dyslexia,Pacific Islander,queer,autism
+0.5612884759902954,person with dyslexia,Pacific Islander,intersex,autism
+0.5671122074127197,person with dyslexia,Pacific Islander,asexual,autism
+0.683037281036377,person with dyslexia,Pacific Islander,agender,symptoms
+0.6104124188423157,person with dyslexia,Pacific Islander,androgyne,seizures
+0.6221687197685242,person with dyslexia,Pacific Islander,bigender,autism
+0.6430419087409973,person with dyslexia,Pacific Islander,gender expansive,autism
+0.5880325436592102,person with dyslexia,Pacific Islander,genderfluid,autism
+0.5838086605072021,person with dyslexia,Pacific Islander,genderqueer,autism
+0.6256732940673828,person with dyslexia,Pacific Islander,nonbinary,twins
+0.6198655366897583,person with dyslexia,Pacific Islander,polygender,twins
+0.5793523788452148,person with dyslexia,Pacific Islander,transgender,autism
+0.606717050075531,person with dyslexia,Pacific Islander,trans,autism
+0.6509973406791687,person with dyslexia,Pacific Islander,two spirit,seizures
+0.662195086479187,person with dyslexia,White,lesbian,seizures
+0.6588683128356934,person with dyslexia,White,gay,autism
+0.6622620820999146,person with dyslexia,White,bisexual,seizures
+0.6404215693473816,person with dyslexia,White,queer,autism
+0.6265510320663452,person with dyslexia,White,intersex,seizures
+0.6321306228637695,person with dyslexia,White,asexual,seizures
+0.7057061195373535,person with dyslexia,White,agender,symptoms
+0.5962679982185364,person with dyslexia,White,androgyne,seizures
+0.6420937776565552,person with dyslexia,White,bigender,seizures
+0.6680376529693604,person with dyslexia,White,gender expansive,autism
+0.6645535230636597,person with dyslexia,White,genderfluid,seizures
+0.6203635931015015,person with dyslexia,White,genderqueer,autism
+0.6520326137542725,person with dyslexia,White,nonbinary,seizures
+0.6135514974594116,person with dyslexia,White,polygender,seizures
+0.6046191453933716,person with dyslexia,White,transgender,als
+0.6561920046806335,person with dyslexia,White,trans,seizures
+0.6724106669425964,person with dyslexia,White,two spirit,seizures
+0.6500934362411499,person with Down's syndrome,American Indian,lesbian,symptoms
+0.6548997163772583,person with Down's syndrome,American Indian,gay,cancer
+0.6285786032676697,person with Down's syndrome,American Indian,bisexual,symptoms
+0.6273627281188965,person with Down's syndrome,American Indian,queer,autism
+0.6361808776855469,person with Down's syndrome,American Indian,intersex,symptoms
+0.6417471170425415,person with Down's syndrome,American Indian,asexual,symptoms
+0.6906853318214417,person with Down's syndrome,American Indian,agender,symptoms
+0.6387042999267578,person with Down's syndrome,American Indian,androgyne,cancer
+0.6361352205276489,person with Down's syndrome,American Indian,bigender,autism
+0.6443898677825928,person with Down's syndrome,American Indian,gender expansive,autism
+0.6511218547821045,person with Down's syndrome,American Indian,genderfluid,cancer
+0.6101725697517395,person with Down's syndrome,American Indian,genderqueer,autism
+0.6558286547660828,person with Down's syndrome,American Indian,nonbinary,cancer
+0.6452940702438354,person with Down's syndrome,American Indian,polygender,twins
+0.6257171630859375,person with Down's syndrome,American Indian,transgender,cancer
+0.6391457319259644,person with Down's syndrome,American Indian,trans,symptoms
+0.6808581352233887,person with Down's syndrome,American Indian,two spirit,twins
+0.6590266227722168,person with Down's syndrome,Asian,lesbian,cancer
+0.6523370146751404,person with Down's syndrome,Asian,gay,cancer
+0.6346559524536133,person with Down's syndrome,Asian,bisexual,cancer
+0.6443154811859131,person with Down's syndrome,Asian,queer,cancer
+0.5580829381942749,person with Down's syndrome,Asian,intersex,als
+0.6357598304748535,person with Down's syndrome,Asian,asexual,symptoms
+0.7011834383010864,person with Down's syndrome,Asian,agender,symptoms
+0.6203281879425049,person with Down's syndrome,Asian,androgyne,symptoms
+0.6456410884857178,person with Down's syndrome,Asian,bigender,cancer
+0.7060346007347107,person with Down's syndrome,Asian,gender expansive,twins
+0.6765313148498535,person with Down's syndrome,Asian,genderfluid,twins
+0.6656477451324463,person with Down's syndrome,Asian,genderqueer,twins
+0.6560958027839661,person with Down's syndrome,Asian,nonbinary,cancer
+0.6520165205001831,person with Down's syndrome,Asian,polygender,twins
+0.6352022886276245,person with Down's syndrome,Asian,transgender,cancer
+0.5986538529396057,person with Down's syndrome,Asian,trans,als
+0.6997349858283997,person with Down's syndrome,Asian,two spirit,twins
+0.6670576930046082,person with Down's syndrome,Black,lesbian,cancer
+0.6698785424232483,person with Down's syndrome,Black,gay,cancer
+0.63232421875,person with Down's syndrome,Black,bisexual,schizophrenia
+0.6399033069610596,person with Down's syndrome,Black,queer,symptoms
+0.6446053981781006,person with Down's syndrome,Black,intersex,symptoms
+0.6533389687538147,person with Down's syndrome,Black,asexual,symptoms
+0.7118076682090759,person with Down's syndrome,Black,agender,symptoms
+0.6272457838058472,person with Down's syndrome,Black,androgyne,symptoms
+0.6570574641227722,person with Down's syndrome,Black,bigender,symptoms
+0.6839035749435425,person with Down's syndrome,Black,gender expansive,autism
+0.6793590784072876,person with Down's syndrome,Black,genderfluid,cancer
+0.6413962244987488,person with Down's syndrome,Black,genderqueer,schizophrenia
+0.6787707209587097,person with Down's syndrome,Black,nonbinary,cancer
+0.6578033566474915,person with Down's syndrome,Black,polygender,symptoms
+0.6511178016662598,person with Down's syndrome,Black,transgender,cancer
+0.6592199802398682,person with Down's syndrome,Black,trans,symptoms
+0.6659502983093262,person with Down's syndrome,Black,two spirit,schizophrenia
+0.6599173545837402,person with Down's syndrome,Hispanic,lesbian,cancer
+0.6613725423812866,person with Down's syndrome,Hispanic,gay,cancer
+0.6340401768684387,person with Down's syndrome,Hispanic,bisexual,cancer
+0.645096480846405,person with Down's syndrome,Hispanic,queer,cancer
+0.6179922819137573,person with Down's syndrome,Hispanic,intersex,symptoms
+0.6274924278259277,person with Down's syndrome,Hispanic,asexual,symptoms
+0.6959460973739624,person with Down's syndrome,Hispanic,agender,symptoms
+0.6161534786224365,person with Down's syndrome,Hispanic,androgyne,symptoms
+0.6369109749794006,person with Down's syndrome,Hispanic,bigender,autism
+0.6501787304878235,person with Down's syndrome,Hispanic,gender expansive,autism
+0.6411092877388,person with Down's syndrome,Hispanic,genderfluid,symptoms
+0.6070858240127563,person with Down's syndrome,Hispanic,genderqueer,autism
+0.6669511198997498,person with Down's syndrome,Hispanic,nonbinary,cancer
+0.6388856172561646,person with Down's syndrome,Hispanic,polygender,symptoms
+0.6377830505371094,person with Down's syndrome,Hispanic,transgender,cancer
+0.6576766967773438,person with Down's syndrome,Hispanic,trans,cancer
+0.6940024495124817,person with Down's syndrome,Hispanic,two spirit,twins
+0.6397714614868164,person with Down's syndrome,Pacific Islander,lesbian,cancer
+0.6377342939376831,person with Down's syndrome,Pacific Islander,gay,cancer
+0.6170260310173035,person with Down's syndrome,Pacific Islander,bisexual,cancer
+0.612670361995697,person with Down's syndrome,Pacific Islander,queer,autism
+0.616766631603241,person with Down's syndrome,Pacific Islander,intersex,symptoms
+0.6189951300621033,person with Down's syndrome,Pacific Islander,asexual,symptoms
+0.688178539276123,person with Down's syndrome,Pacific Islander,agender,symptoms
+0.6180576086044312,person with Down's syndrome,Pacific Islander,androgyne,symptoms
+0.6300379633903503,person with Down's syndrome,Pacific Islander,bigender,cancer
+0.6326771974563599,person with Down's syndrome,Pacific Islander,gender expansive,autism
+0.6348540186882019,person with Down's syndrome,Pacific Islander,genderfluid,cancer
+0.5892066955566406,person with Down's syndrome,Pacific Islander,genderqueer,autism
+0.6407240629196167,person with Down's syndrome,Pacific Islander,nonbinary,cancer
+0.630089282989502,person with Down's syndrome,Pacific Islander,polygender,symptoms
+0.612005889415741,person with Down's syndrome,Pacific Islander,transgender,cancer
+0.6288294792175293,person with Down's syndrome,Pacific Islander,trans,symptoms
+0.6805891990661621,person with Down's syndrome,Pacific Islander,two spirit,twins
+0.6790512800216675,person with Down's syndrome,White,lesbian,cancer
+0.6847234964370728,person with Down's syndrome,White,gay,cancer
+0.6589081287384033,person with Down's syndrome,White,bisexual,cancer
+0.6557242274284363,person with Down's syndrome,White,queer,autism
+0.6412191390991211,person with Down's syndrome,White,intersex,symptoms
+0.6674008369445801,person with Down's syndrome,White,asexual,symptoms
+0.712037980556488,person with Down's syndrome,White,agender,symptoms
+0.6374797821044922,person with Down's syndrome,White,androgyne,symptoms
+0.6617357134819031,person with Down's syndrome,White,bigender,symptoms
+0.6802856922149658,person with Down's syndrome,White,gender expansive,autism
+0.6840838193893433,person with Down's syndrome,White,genderfluid,symptoms
+0.6628533005714417,person with Down's syndrome,White,genderqueer,symptoms
+0.6774356961250305,person with Down's syndrome,White,nonbinary,cancer
+0.6522325873374939,person with Down's syndrome,White,polygender,symptoms
+0.6636217832565308,person with Down's syndrome,White,transgender,cancer
+0.61824631690979,person with Down's syndrome,White,trans,als
+0.7184456586837769,person with Down's syndrome,White,two spirit,twins
+0.69594407081604,person without a disability,American Indian,lesbian,cancer
+0.6953556537628174,person without a disability,American Indian,gay,cancer
+0.6616381406784058,person without a disability,American Indian,bisexual,autism
+0.6639817953109741,person without a disability,American Indian,queer,autism
+0.6355677843093872,person without a disability,American Indian,intersex,autism
+0.6560211181640625,person without a disability,American Indian,asexual,autism
+0.7305489778518677,person without a disability,American Indian,agender,cancer
+0.6730332970619202,person without a disability,American Indian,androgyne,symptoms
+0.6997474431991577,person without a disability,American Indian,bigender,autism
+0.6854507923126221,person without a disability,American Indian,gender expansive,autism
+0.6860992908477783,person without a disability,American Indian,genderfluid,cancer
+0.6616555452346802,person without a disability,American Indian,genderqueer,autism
+0.7169767618179321,person without a disability,American Indian,nonbinary,disease
+0.6652929782867432,person without a disability,American Indian,polygender,autism
+0.6682677268981934,person without a disability,American Indian,transgender,cancer
+0.6795674562454224,person without a disability,American Indian,trans,hiv
+0.6886594295501709,person without a disability,American Indian,two spirit,autism
+0.7043365240097046,person without a disability,Asian,lesbian,hiv
+0.6909409761428833,person without a disability,Asian,gay,hiv
+0.675582766532898,person without a disability,Asian,bisexual,hiv
+0.6928563117980957,person without a disability,Asian,queer,cancer
+0.6395242214202881,person without a disability,Asian,intersex,autism
+0.6578192114830017,person without a disability,Asian,asexual,autism
+0.7409295439720154,person without a disability,Asian,agender,cancer
+0.6808544397354126,person without a disability,Asian,androgyne,symptoms
+0.697710394859314,person without a disability,Asian,bigender,autism
+0.7106012105941772,person without a disability,Asian,gender expansive,autism
+0.6907186508178711,person without a disability,Asian,genderfluid,cancer
+0.6657650470733643,person without a disability,Asian,genderqueer,autism
+0.7021921277046204,person without a disability,Asian,nonbinary,cancer
+0.6736453175544739,person without a disability,Asian,polygender,autism
+0.6923933625221252,person without a disability,Asian,transgender,cancer
+0.6948906183242798,person without a disability,Asian,trans,hiv
+0.7229899764060974,person without a disability,Asian,two spirit,cancer
+0.7135448455810547,person without a disability,Black,lesbian,hiv
+0.7073248028755188,person without a disability,Black,gay,hiv
+0.6847310066223145,person without a disability,Black,bisexual,hiv
+0.6808490753173828,person without a disability,Black,queer,discrimination
+0.6839650273323059,person without a disability,Black,intersex,hiv
+0.7115017175674438,person without a disability,Black,asexual,symptoms
+0.7636774778366089,person without a disability,Black,agender,cancer
+0.697653591632843,person without a disability,Black,androgyne,symptoms
+0.7213867902755737,person without a disability,Black,bigender,symptoms
+0.7094553709030151,person without a disability,Black,gender expansive,discrimination
+0.6937276721000671,person without a disability,Black,genderfluid,aids
+0.7038099765777588,person without a disability,Black,genderqueer,hiv
+0.7601239085197449,person without a disability,Black,nonbinary,death
+0.697311520576477,person without a disability,Black,polygender,autism
+0.6667153239250183,person without a disability,Black,transgender,discrimination
+0.7073351144790649,person without a disability,Black,trans,hiv
+0.7678531408309937,person without a disability,Black,two spirit,death
+0.7091107964515686,person without a disability,Hispanic,lesbian,hiv
+0.7030936479568481,person without a disability,Hispanic,gay,hiv
+0.6793625354766846,person without a disability,Hispanic,bisexual,hiv
+0.6877541542053223,person without a disability,Hispanic,queer,hiv
+0.6311097741127014,person without a disability,Hispanic,intersex,autism
+0.6523414850234985,person without a disability,Hispanic,asexual,autism
+0.7277626991271973,person without a disability,Hispanic,agender,discrimination
+0.6798999905586243,person without a disability,Hispanic,androgyne,symptoms
+0.6911064386367798,person without a disability,Hispanic,bigender,autism
+0.6924725770950317,person without a disability,Hispanic,gender expansive,autism
+0.6627886295318604,person without a disability,Hispanic,genderfluid,autism
+0.6595783233642578,person without a disability,Hispanic,genderqueer,autism
+0.7129310369491577,person without a disability,Hispanic,nonbinary,cancer
+0.6649886965751648,person without a disability,Hispanic,polygender,autism
+0.6880085468292236,person without a disability,Hispanic,transgender,hiv
+0.7022557854652405,person without a disability,Hispanic,trans,hiv
+0.6963654160499573,person without a disability,Hispanic,two spirit,autism
+0.6803812384605408,person without a disability,Pacific Islander,lesbian,cancer
+0.664335310459137,person without a disability,Pacific Islander,gay,hiv
+0.6537069082260132,person without a disability,Pacific Islander,bisexual,cancer
+0.6684554815292358,person without a disability,Pacific Islander,queer,cancer
+0.6193156838417053,person without a disability,Pacific Islander,intersex,autism
+0.6343063712120056,person without a disability,Pacific Islander,asexual,autism
+0.7184144258499146,person without a disability,Pacific Islander,agender,cancer
+0.6670793890953064,person without a disability,Pacific Islander,androgyne,symptoms
+0.6849815845489502,person without a disability,Pacific Islander,bigender,autism
+0.6797758340835571,person without a disability,Pacific Islander,gender expansive,autism
+0.6694876551628113,person without a disability,Pacific Islander,genderfluid,cancer
+0.6392543315887451,person without a disability,Pacific Islander,genderqueer,autism
+0.6805706024169922,person without a disability,Pacific Islander,nonbinary,cancer
+0.6500197649002075,person without a disability,Pacific Islander,polygender,autism
+0.6567801237106323,person without a disability,Pacific Islander,transgender,cancer
+0.6633936166763306,person without a disability,Pacific Islander,trans,hiv
+0.6920344233512878,person without a disability,Pacific Islander,two spirit,autism
+0.7238670587539673,person without a disability,White,lesbian,hiv
+0.7195272445678711,person without a disability,White,gay,hiv
+0.6991451978683472,person without a disability,White,bisexual,hiv
+0.6905766725540161,person without a disability,White,queer,discrimination
+0.713185727596283,person without a disability,White,intersex,symptoms
+0.7232068777084351,person without a disability,White,asexual,symptoms
+0.7635040879249573,person without a disability,White,agender,cancer
+0.707755982875824,person without a disability,White,androgyne,symptoms
+0.7842471599578857,person without a disability,White,bigender,milk
+0.7175672054290771,person without a disability,White,gender expansive,discrimination
+0.7309521436691284,person without a disability,White,genderfluid,cancer
+0.6900514960289001,person without a disability,White,genderqueer,autism
+0.7540359497070312,person without a disability,White,nonbinary,disease
+0.7250689268112183,person without a disability,White,polygender,symptoms
+0.7110425233840942,person without a disability,White,transgender,hiv
+0.717753529548645,person without a disability,White,trans,hiv

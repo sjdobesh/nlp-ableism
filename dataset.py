@@ -4,14 +4,16 @@
 @desc : measure ableist bias in BERT context embeddings
 '''
 
-
 import csv
-from tqdm import tqdm
 from pathlib import Path
-import pandas as pd
 from pprint import pprint
+from typing import Dict, List, Tuple
+
+import pandas as pd
+from tqdm import tqdm
 from transformers import pipeline
 
+from embedding import *
 
 # debug prints
 DBUG = True
@@ -50,7 +52,7 @@ def dataset_help() -> None:
           mask and save to a masks.csv file.')
 
 
-def load_synthetic_dataset() -> list:
+def load_synthetic_dataset() -> List[pd.DataFrame]:
     '''
     load csvs from synthetic dataset into a list
     of dataframes seperated by file
@@ -61,7 +63,7 @@ def load_synthetic_dataset() -> list:
     return data
 
 
-def load_reddit_dataset() -> list:
+def load_reddit_dataset() -> pd.DataFrame:
     '''load all csvs from reddit data set into a single dataframe'''
     # glob data frames
     dataframes = []
@@ -75,7 +77,7 @@ def load_reddit_dataset() -> list:
     return df
 
 
-def save_dataset(data: list, name: str) -> None:
+def save_dataset(data: List[pd.DataFrame], name: str) -> None:
     '''
     save a generated dataset as a csv
 
@@ -93,7 +95,7 @@ def save_dataset(data: list, name: str) -> None:
         writer.writerows(data)
 
 
-def load_csv_dataset(name: str) -> list:
+def load_csv_dataset(name: str) -> List[pd.DataFrame]:
     '''load a csv data set into a single dataframe'''
     # glob data frames
     dataframes = []
@@ -102,7 +104,7 @@ def load_csv_dataset(name: str) -> list:
     return dataframes
 
 
-def mask(data: list) -> list:
+def mask(data: List[pd.DataFrame]) -> List[dict]:
     '''get all masked sentences'''
     pred = []
     for datum in data:
@@ -112,17 +114,17 @@ def mask(data: list) -> list:
         )):
             guess = unmask(sentence+'.')[0]
             guess_dict: dict = {
-                'masked':       sentence,
-                'unmasked':     guess['sequence'],
-                'word':         guess['token_str'],
+                'masked':     sentence,
+                'unmasked':   guess['sequence'],
+                'word':       guess['token_str'],
                 'disability': disability,
-                'score':        guess['score']
+                'score':      guess['score']
             }
             pred.append(guess_dict)
     return pred
 
 
-def get_sentiment(data: list) -> list:
+def get_sentiment(data: List[pd.DataFrame]) -> List[tuple]:
     '''get all masked sentences w sentiment'''
     pred = []
     disabilities = []
@@ -137,7 +139,7 @@ def get_sentiment(data: list) -> list:
     return pred
 
 
-def generate_data() -> list:
+def generate_data() -> List[dict]:
     '''
     generate mask data set and save it.
     also returns the masks
@@ -146,6 +148,68 @@ def generate_data() -> list:
     masks = mask(data)
     save_dataset(masks, 'masks')
     return masks
+
+
+def connector_set(
+    connector_word: str,
+    data: List[pd.DataFrame]
+) -> List[pd.DataFrame]:
+    '''get the subset of the synthetic data for a given connector word'''
+    # remember each thing in the data list is one of the csvs
+    word = connector_word  # u gotta make this a local variable for query
+    querried: List[pd.DataFrame] = []
+    for datum in data:
+        querried.append(datum.query('connector == @word'))
+    return querried
+
+
+def analyze(
+    data: List[pd.DataFrame]
+) -> List[Dict[str, str]]:
+    '''run cosine similarity of all others against the first'''
+    # basically data[0] is always one element with no descriptors
+    # use this as the baseline
+    result = []
+    sentence = str(data[0]['Sentence'].iloc[0] + '.')
+    pred = unmask(sentence)[0]
+    baseline = pred['sequence']
+    result.append((baseline))
+    baseline = '[CLS] ' + baseline + ' [SEP]'
+    for i in range(1, len(data)):  # 1 less
+        for j in range(len(data[i])):
+            compare = str(data[i]['Sentence'].iloc[j])
+            disability = str(data[i]['Disability'].iloc[j])
+            race = str(data[i]['Race'].iloc[j])
+            gender = str(data[i]['Gender'].iloc[j])
+            pred = unmask(compare + '.')
+            compare = pred[0]['sequence']
+            # tag sentences
+            compare = '[CLS] ' + compare + ' [SEP]'
+            result.append({
+                'cosine_similarity': compare_sentences(baseline, compare),
+                'disability': disability,
+                'race': race,
+                'gender': gender,
+                'prediction': str(pred[0]['token_str'])
+            })
+    return result
+
+
+def process() -> List[List[pd.DataFrame]]:
+    '''process all connector sets'''
+    results = []
+    data = load_synthetic_dataset()
+    for word in tqdm(data[0]['connector']):
+        word_set = connector_set(word, data)
+        word_results = analyze(word_set)
+        results.append(word_results)
+    for csv_file, result in zip(CSV_FILES[1:], results):
+        with open(CSV_PATH + csv_file + '_processed.csv', 'w') as f:
+            writer: csv.DictWriter = csv.DictWriter(f, result[3].keys())
+            writer.writeheader()
+            writer.writerows(result)
+    return results
+
 
 def main() -> None:
     '''u know, main?'''
